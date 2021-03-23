@@ -17,6 +17,9 @@ divide
 multiply
  (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
  (Ljava/math/BigDecimal;)L1java/math/BigDecimal;
+plus
+ ()Ljava/math/BigDecimal;
+ ()L1java/math/BigDecimal;
 subtract
  (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
  (Ljava/math/BigDecimal;)L1java/math/BigDecimal;
