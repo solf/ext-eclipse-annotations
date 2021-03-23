@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/html/HtmlElement
+getHtmlElementsByTagName
+ <E:Lcom/gargoylesoftware/htmlunit/html/HtmlElement;>(Ljava/lang/String;)Ljava/util/List<TE;>;
+ <E:Lcom/gargoylesoftware/htmlunit/html/HtmlElement;>(Ljava/lang/String;)L1java/util/List<T1E;>;

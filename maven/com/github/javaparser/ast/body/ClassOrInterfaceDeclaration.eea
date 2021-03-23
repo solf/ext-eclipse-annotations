@@ -1,0 +1,7 @@
+class com/github/javaparser/ast/body/ClassOrInterfaceDeclaration
+clone
+ ()Lcom/github/javaparser/ast/body/ClassOrInterfaceDeclaration;
+ ()L1com/github/javaparser/ast/body/ClassOrInterfaceDeclaration;
+getTypeParameters
+ ()Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/type/TypeParameter;>;
+ ()Lcom/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/type/TypeParameter;>;

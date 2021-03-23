@@ -1,0 +1,4 @@
+class org/javatuples/Pair
+add
+ <X0:Ljava/lang/Object;>(TX0;)Lorg/javatuples/Triplet<TA;TB;TX0;>;
+ <X0:Ljava/lang/Object;>(TX0;)Lorg/javatuples/Triplet<TA;TB;TX0;>;

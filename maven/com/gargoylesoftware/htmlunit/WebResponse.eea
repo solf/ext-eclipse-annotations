@@ -1,0 +1,10 @@
+class com/gargoylesoftware/htmlunit/WebResponse
+getContentAsString
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
+getContentAsString
+ (Ljava/nio/charset/Charset;)Ljava/lang/String;
+ (Ljava/nio/charset/Charset;)L0java/lang/String;
+getContentAsString
+ (Ljava/nio/charset/Charset;Z)Ljava/lang/String;
+ (Ljava/nio/charset/Charset;Z)L0java/lang/String;

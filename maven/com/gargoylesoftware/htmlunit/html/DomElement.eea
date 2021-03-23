@@ -1,0 +1,10 @@
+class com/gargoylesoftware/htmlunit/html/DomElement
+getAttribute
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;
+getElementsByTagName
+ (Ljava/lang/String;)Lcom/gargoylesoftware/htmlunit/html/DomNodeList<Lcom/gargoylesoftware/htmlunit/html/HtmlElement;>;
+ (Ljava/lang/String;)L1com/gargoylesoftware/htmlunit/html/DomNodeList<L1com/gargoylesoftware/htmlunit/html/HtmlElement;>;
+getElementsByTagNameImpl
+ <E:Lcom/gargoylesoftware/htmlunit/html/HtmlElement;>(Ljava/lang/String;)Lcom/gargoylesoftware/htmlunit/html/DomNodeList<TE;>;
+ <E:Lcom/gargoylesoftware/htmlunit/html/HtmlElement;>(Ljava/lang/String;)L1com/gargoylesoftware/htmlunit/html/DomNodeList<T1E;>;

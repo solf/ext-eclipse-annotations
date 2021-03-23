@@ -1,0 +1,7 @@
+class java/util/zip/ZipFile
+entries
+ ()Ljava/util/Enumeration<+Ljava/util/zip/ZipEntry;>;
+ ()L1java/util/Enumeration<+1Ljava/util/zip/ZipEntry;>;
+getInputStream
+ (Ljava/util/zip/ZipEntry;)Ljava/io/InputStream;
+ (Ljava/util/zip/ZipEntry;)L0java/io/InputStream;

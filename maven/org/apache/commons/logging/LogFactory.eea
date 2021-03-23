@@ -1,0 +1,4 @@
+class org/apache/commons/logging/LogFactory
+getLog
+ (Ljava/lang/Class;)Lorg/apache/commons/logging/Log;
+ (Ljava/lang/Class;)L1org/apache/commons/logging/Log;

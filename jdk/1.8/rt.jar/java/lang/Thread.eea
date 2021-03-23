@@ -1,0 +1,10 @@
+class java/lang/Thread
+currentThread
+ ()Ljava/lang/Thread;
+ ()L1java/lang/Thread;
+getAllStackTraces
+ ()Ljava/util/Map<Ljava/lang/Thread;[Ljava/lang/StackTraceElement;>;
+ ()L1java/util/Map<L1java/lang/Thread;[1L1java/lang/StackTraceElement;>;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

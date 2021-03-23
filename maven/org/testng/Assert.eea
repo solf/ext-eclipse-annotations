@@ -1,0 +1,7 @@
+class org/testng/Assert
+assertEquals
+ (Ljava/lang/Object;Ljava/lang/Object;)V
+ (L0java/lang/Object;L0java/lang/Object;)V
+assertEquals
+ (Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/String;)V
+ (L0java/lang/Object;L0java/lang/Object;Ljava/lang/String;)V

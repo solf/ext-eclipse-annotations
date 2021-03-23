@@ -1,0 +1,7 @@
+class com/restfb/json/JsonObject
+getNames
+ (Lcom/restfb/json/JsonObject;)[Ljava/lang/String;
+ (Lcom/restfb/json/JsonObject;)[L1java/lang/String;
+toString
+ ()Ljava/lang/String;
+ ()L0java/lang/String;

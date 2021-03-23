@@ -1,0 +1,4 @@
+class org/codehaus/jackson/JsonParser
+getText
+ ()Ljava/lang/String;
+ ()L0java/lang/String;

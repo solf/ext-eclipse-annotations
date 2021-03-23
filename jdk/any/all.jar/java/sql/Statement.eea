@@ -1,0 +1,7 @@
+class java/sql/Statement
+executeBatch
+ ()[I
+ ()[1I
+executeQuery
+ (Ljava/lang/String;)Ljava/sql/ResultSet;
+ (Ljava/lang/String;)L1java/sql/ResultSet;

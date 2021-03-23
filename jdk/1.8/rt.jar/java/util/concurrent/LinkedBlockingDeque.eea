@@ -1,0 +1,28 @@
+class java/util/concurrent/LinkedBlockingDeque
+peek
+ ()TE;
+ ()T0E;
+peekFirst
+ ()TE;
+ ()T0E;
+peekLast
+ ()TE;
+ ()T0E;
+poll
+ ()TE;
+ ()T0E;
+poll
+ (JLjava/util/concurrent/TimeUnit;)TE;
+ (JLjava/util/concurrent/TimeUnit;)T0E;
+pollFirst
+ ()TE;
+ ()T0E;
+pollFirst
+ (JLjava/util/concurrent/TimeUnit;)TE;
+ (JLjava/util/concurrent/TimeUnit;)T0E;
+pollLast
+ ()TE;
+ ()T0E;
+pollLast
+ (JLjava/util/concurrent/TimeUnit;)TE;
+ (JLjava/util/concurrent/TimeUnit;)T0E;

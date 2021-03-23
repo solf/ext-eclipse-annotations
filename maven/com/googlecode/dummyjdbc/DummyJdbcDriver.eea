@@ -1,0 +1,4 @@
+class com/googlecode/dummyjdbc/DummyJdbcDriver
+connect
+ (Ljava/lang/String;Ljava/util/Properties;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/util/Properties;)L1java/sql/Connection;

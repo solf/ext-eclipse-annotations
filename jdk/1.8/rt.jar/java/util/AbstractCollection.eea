@@ -1,0 +1,7 @@
+class java/util/AbstractCollection
+addAll
+ (Ljava/util/Collection<+TE;>;)Z
+ (L1java/util/Collection<+TE;>;)Z
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

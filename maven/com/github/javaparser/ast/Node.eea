@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/Node
+getComment
+ ()Ljava/util/Optional<Lcom/github/javaparser/ast/comments/Comment;>;
+ ()L1java/util/Optional<L1com/github/javaparser/ast/comments/Comment;>;

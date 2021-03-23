@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithSimpleName
+getNameAsString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

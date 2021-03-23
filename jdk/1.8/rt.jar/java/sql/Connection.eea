@@ -1,0 +1,7 @@
+class java/sql/Connection
+createStatement
+ ()Ljava/sql/Statement;
+ ()L1java/sql/Statement;
+prepareStatement
+ (Ljava/lang/String;)Ljava/sql/PreparedStatement;
+ (L1java/lang/String;)L1java/sql/PreparedStatement;

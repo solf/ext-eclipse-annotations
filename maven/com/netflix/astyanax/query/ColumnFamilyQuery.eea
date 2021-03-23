@@ -1,0 +1,4 @@
+class com/netflix/astyanax/query/ColumnFamilyQuery
+getRowRange
+ (TK;TK;Ljava/lang/String;Ljava/lang/String;I)Lcom/netflix/astyanax/query/RowSliceQuery<TK;TC;>;
+ (T0K;T0K;Ljava/lang/String;Ljava/lang/String;I)Lcom/netflix/astyanax/query/RowSliceQuery<TK;TC;>;

@@ -1,0 +1,4 @@
+class javax/servlet/http/HttpServletRequest
+getCookies
+ ()[Ljavax/servlet/http/Cookie;
+ ()[0L1javax/servlet/http/Cookie;

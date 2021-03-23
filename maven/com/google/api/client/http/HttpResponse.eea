@@ -1,0 +1,4 @@
+class com/google/api/client/http/HttpResponse
+getContent
+ ()Ljava/io/InputStream;
+ ()L0java/io/InputStream;

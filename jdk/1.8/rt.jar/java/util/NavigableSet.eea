@@ -1,0 +1,10 @@
+class java/util/NavigableSet
+iterator
+ ()Ljava/util/Iterator<TE;>;
+ ()L1java/util/Iterator<TE;>;
+pollFirst
+ ()TE;
+ ()T0E;
+pollLast
+ ()TE;
+ ()T0E;

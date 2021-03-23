@@ -1,0 +1,7 @@
+class java/lang/Throwable
+getStackTrace
+ ()[Ljava/lang/StackTraceElement;
+ ()[L1java/lang/StackTraceElement;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

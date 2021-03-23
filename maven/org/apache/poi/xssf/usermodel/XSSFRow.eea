@@ -1,0 +1,4 @@
+class org/apache/poi/xssf/usermodel/XSSFRow
+cellIterator
+ ()Ljava/util/Iterator<Lorg/apache/poi/ss/usermodel/Cell;>;
+ ()L1java/util/Iterator<Lorg/apache/poi/ss/usermodel/Cell;>;

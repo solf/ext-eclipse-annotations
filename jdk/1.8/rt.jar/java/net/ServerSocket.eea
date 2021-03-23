@@ -1,0 +1,4 @@
+class java/net/ServerSocket
+accept
+ ()Ljava/net/Socket;
+ ()L1java/net/Socket;

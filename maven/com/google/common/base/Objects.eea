@@ -1,0 +1,4 @@
+class com/google/common/base/Objects
+equal
+ (Ljava/lang/Object;Ljava/lang/Object;)Z
+ (L0java/lang/Object;L0java/lang/Object;)Z

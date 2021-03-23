@@ -1,0 +1,4 @@
+class java/lang/Double
+valueOf
+ (Ljava/lang/String;)Ljava/lang/Double;
+ (Ljava/lang/String;)L1java/lang/Double;

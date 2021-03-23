@@ -1,0 +1,4 @@
+class org/openqa/selenium/WebDriver$Options
+getCookies
+ ()Ljava/util/Set<Lorg/openqa/selenium/Cookie;>;
+ ()L1java/util/Set<L1org/openqa/selenium/Cookie;>;

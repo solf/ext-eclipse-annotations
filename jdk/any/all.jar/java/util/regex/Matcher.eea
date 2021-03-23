@@ -1,0 +1,10 @@
+class java/util/regex/Matcher
+group
+ (I)Ljava/lang/String;
+ (I)L0java/lang/String;
+group
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L0java/lang/String;
+replaceAll
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;

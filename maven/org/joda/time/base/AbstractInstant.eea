@@ -1,0 +1,10 @@
+class org/joda/time/base/AbstractInstant
+toDate
+ ()Ljava/util/Date;
+ ()L1java/util/Date;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+toString
+ (Lorg/joda/time/format/DateTimeFormatter;)Ljava/lang/String;
+ (Lorg/joda/time/format/DateTimeFormatter;)L1java/lang/String;

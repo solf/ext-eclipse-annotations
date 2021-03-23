@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithParameters
+getParameter
+ (I)Lcom/github/javaparser/ast/body/Parameter;
+ (I)L1com/github/javaparser/ast/body/Parameter;

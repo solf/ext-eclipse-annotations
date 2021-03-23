@@ -1,0 +1,7 @@
+class java/lang/System
+in
+ Ljava/io/InputStream;
+ L1java/io/InputStream;
+out
+ Ljava/io/PrintStream;
+ L1java/io/PrintStream;

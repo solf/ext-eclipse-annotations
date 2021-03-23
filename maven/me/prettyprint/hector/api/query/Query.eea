@@ -1,0 +1,4 @@
+class me/prettyprint/hector/api/query/Query
+execute
+ ()Lme/prettyprint/hector/api/query/QueryResult<TT;>;
+ ()L1me/prettyprint/hector/api/query/QueryResult<T1T;>;

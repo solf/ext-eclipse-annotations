@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/CookieManager
+getCookies
+ ()Ljava/util/Set<Lcom/gargoylesoftware/htmlunit/util/Cookie;>;
+ ()L1java/util/Set<L1com/gargoylesoftware/htmlunit/util/Cookie;>;

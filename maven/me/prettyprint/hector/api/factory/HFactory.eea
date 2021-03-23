@@ -1,0 +1,4 @@
+class me/prettyprint/hector/api/factory/HFactory
+createCounterColumn
+ (Ljava/lang/String;J)Lme/prettyprint/hector/api/beans/HCounterColumn<Ljava/lang/String;>;
+ (L1java/lang/String;J)L1me/prettyprint/hector/api/beans/HCounterColumn<L1java/lang/String;>;

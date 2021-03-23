@@ -1,0 +1,4 @@
+class com/google/api/client/googleapis/util/Utils$JsonFactoryInstanceHolder
+INSTANCE
+ Lcom/google/api/client/json/JsonFactory;
+ L1com/google/api/client/json/JsonFactory;

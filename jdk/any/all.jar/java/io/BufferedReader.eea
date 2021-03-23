@@ -1,0 +1,4 @@
+class java/io/BufferedReader
+readLine
+ ()Ljava/lang/String;
+ ()L0java/lang/String;

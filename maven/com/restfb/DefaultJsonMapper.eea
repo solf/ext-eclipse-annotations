@@ -1,0 +1,4 @@
+class com/restfb/DefaultJsonMapper
+toJavaList
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)Ljava/util/List<TT;>;
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)L1java/util/List<T1T;>;

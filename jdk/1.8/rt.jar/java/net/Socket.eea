@@ -1,0 +1,10 @@
+class java/net/Socket
+getInputStream
+ ()Ljava/io/InputStream;
+ ()L1java/io/InputStream;
+getLocalAddress
+ ()Ljava/net/InetAddress;
+ ()L1java/net/InetAddress;
+getOutputStream
+ ()Ljava/io/OutputStream;
+ ()L1java/io/OutputStream;

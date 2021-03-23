@@ -1,0 +1,10 @@
+class com/gargoylesoftware/htmlunit/HttpWebConnection
+getResponse
+ (Lcom/gargoylesoftware/htmlunit/WebRequest;)Lcom/gargoylesoftware/htmlunit/WebResponse;
+ (L1com/gargoylesoftware/htmlunit/WebRequest;)L1com/gargoylesoftware/htmlunit/WebResponse;
+makeWebResponse
+ (Lorg/apache/http/HttpResponse;Lcom/gargoylesoftware/htmlunit/WebRequest;Lcom/gargoylesoftware/htmlunit/DownloadedContent;J)Lcom/gargoylesoftware/htmlunit/WebResponse;
+ (Lorg/apache/http/HttpResponse;Lcom/gargoylesoftware/htmlunit/WebRequest;Lcom/gargoylesoftware/htmlunit/DownloadedContent;J)L1com/gargoylesoftware/htmlunit/WebResponse;
+newWebResponseInstance
+ (Lcom/gargoylesoftware/htmlunit/WebResponseData;JLcom/gargoylesoftware/htmlunit/WebRequest;)Lcom/gargoylesoftware/htmlunit/WebResponse;
+ (Lcom/gargoylesoftware/htmlunit/WebResponseData;JLcom/gargoylesoftware/htmlunit/WebRequest;)L1com/gargoylesoftware/htmlunit/WebResponse;

@@ -1,0 +1,13 @@
+class java/util/Deque
+peekFirst
+ ()TE;
+ ()T0E;
+peekLast
+ ()TE;
+ ()T0E;
+poll
+ ()TE;
+ ()T0E;
+pollFirst
+ ()TE;
+ ()T0E;

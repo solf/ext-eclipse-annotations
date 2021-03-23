@@ -1,0 +1,4 @@
+class au/com/bytecode/opencsv/CSVReader
+readNext
+ ()[Ljava/lang/String;
+ ()[0L1java/lang/String;

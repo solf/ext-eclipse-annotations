@@ -1,0 +1,4 @@
+class org/mockito/ArgumentCaptor
+getValue
+ ()TT;
+ ()TT;

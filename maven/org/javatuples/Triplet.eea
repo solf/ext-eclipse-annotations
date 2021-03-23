@@ -1,0 +1,4 @@
+class org/javatuples/Triplet
+getValue1
+ ()TB;
+ ()TB;

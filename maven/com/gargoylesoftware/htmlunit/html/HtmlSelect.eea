@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/html/HtmlSelect
+getOptions
+ ()Ljava/util/List<Lcom/gargoylesoftware/htmlunit/html/HtmlOption;>;
+ ()L1java/util/List<L1com/gargoylesoftware/htmlunit/html/HtmlOption;>;

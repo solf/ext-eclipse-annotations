@@ -1,0 +1,7 @@
+class com/google/api/client/googleapis/util/Utils
+getDefaultJsonFactory
+ ()Lcom/google/api/client/json/JsonFactory;
+ ()L1com/google/api/client/json/JsonFactory;
+getDefaultTransport
+ ()Lcom/google/api/client/http/HttpTransport;
+ ()L1com/google/api/client/http/HttpTransport;

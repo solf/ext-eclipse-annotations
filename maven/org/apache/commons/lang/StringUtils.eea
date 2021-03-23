@@ -1,0 +1,10 @@
+class org/apache/commons/lang/StringUtils
+join
+ ([Ljava/lang/Object;C)Ljava/lang/String;
+ ([0Ljava/lang/Object;C)L0java/lang/String;
+split
+ (Ljava/lang/String;Ljava/lang/String;)[Ljava/lang/String;
+ (L0java/lang/String;Ljava/lang/String;)[0L1java/lang/String;
+splitWorker
+ (Ljava/lang/String;Ljava/lang/String;IZ)[Ljava/lang/String;
+ (Ljava/lang/String;Ljava/lang/String;IZ)[0L1java/lang/String;

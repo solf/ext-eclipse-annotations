@@ -1,0 +1,7 @@
+class com/github/javaparser/ast/body/MethodDeclaration
+removeBody
+ ()Lcom/github/javaparser/ast/body/MethodDeclaration;
+ ()L1com/github/javaparser/ast/body/MethodDeclaration;
+setBody
+ (Lcom/github/javaparser/ast/stmt/BlockStmt;)Lcom/github/javaparser/ast/body/MethodDeclaration;
+ (Lcom/github/javaparser/ast/stmt/BlockStmt;)L1com/github/javaparser/ast/body/MethodDeclaration;

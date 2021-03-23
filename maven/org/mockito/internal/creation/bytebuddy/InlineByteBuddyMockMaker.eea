@@ -1,0 +1,4 @@
+class org/mockito/internal/creation/bytebuddy/InlineByteBuddyMockMaker
+createMock
+ <T:Ljava/lang/Object;>(Lorg/mockito/mock/MockCreationSettings<TT;>;Lorg/mockito/invocation/MockHandler;)TT;
+ <T:Ljava/lang/Object;>(Lorg/mockito/mock/MockCreationSettings<TT;>;Lorg/mockito/invocation/MockHandler;)T1T;

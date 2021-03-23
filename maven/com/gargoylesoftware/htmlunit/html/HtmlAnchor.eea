@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/html/HtmlAnchor
+getHrefAttribute
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

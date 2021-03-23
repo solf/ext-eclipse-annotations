@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/type/ClassOrInterfaceType
+setTypeArguments
+ (Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/type/Type;>;)Lcom/github/javaparser/ast/type/ClassOrInterfaceType;
+ (L0com/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/type/Type;>;)Lcom/github/javaparser/ast/type/ClassOrInterfaceType;

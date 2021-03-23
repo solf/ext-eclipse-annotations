@@ -1,0 +1,4 @@
+class java/beans/BeanInfo
+getPropertyDescriptors
+ ()[Ljava/beans/PropertyDescriptor;
+ ()[0L1java/beans/PropertyDescriptor;

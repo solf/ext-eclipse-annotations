@@ -1,0 +1,4 @@
+class me/prettyprint/hector/api/query/QueryResult
+get
+ ()TT;
+ ()T0T;

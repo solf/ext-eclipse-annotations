@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/WebRequest
+getUrl
+ ()Ljava/net/URL;
+ ()L1java/net/URL;

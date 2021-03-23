@@ -1,0 +1,4 @@
+class org/javatuples/Quartet
+getValue2
+ ()TC;
+ ()TC;

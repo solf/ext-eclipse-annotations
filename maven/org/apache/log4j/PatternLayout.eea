@@ -1,0 +1,13 @@
+class org/apache/log4j/PatternLayout
+DEFAULT_CONVERSION_PATTERN
+ Ljava/lang/String;
+ L1java/lang/String;
+createPatternParser
+ (Ljava/lang/String;)Lorg/apache/log4j/helpers/PatternParser;
+ (L1java/lang/String;)Lorg/apache/log4j/helpers/PatternParser;
+format
+ (Lorg/apache/log4j/spi/LoggingEvent;)Ljava/lang/String;
+ (L1org/apache/log4j/spi/LoggingEvent;)L1java/lang/String;
+setConversionPattern
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V

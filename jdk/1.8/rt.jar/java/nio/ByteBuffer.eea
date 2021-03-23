@@ -1,0 +1,4 @@
+class java/nio/ByteBuffer
+array
+ ()[B
+ ()[1B

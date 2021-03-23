@@ -1,0 +1,19 @@
+class java/util/ArrayList
+addAll
+ (ILjava/util/Collection<+TE;>;)Z
+ (IL1java/util/Collection<+TE;>;)Z
+addAll
+ (Ljava/util/Collection<+TE;>;)Z
+ (L1java/util/Collection<+TE;>;)Z
+clone
+ ()Ljava/lang/Object;
+ ()L1java/lang/Object;
+iterator
+ ()Ljava/util/Iterator<TE;>;
+ ()L1java/util/Iterator<TE;>;
+toArray
+ ()[Ljava/lang/Object;
+ ()[1Ljava/lang/Object;
+toArray
+ <T:Ljava/lang/Object;>([TT;)[TT;
+ <T:Ljava/lang/Object;>([TT;)[1TT;

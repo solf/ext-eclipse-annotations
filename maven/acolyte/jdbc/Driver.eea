@@ -1,0 +1,10 @@
+class acolyte/jdbc/Driver
+connection
+ (Lacolyte/jdbc/ConnectionHandler;Ljava/util/Properties;)Lacolyte/jdbc/Connection;
+ (Lacolyte/jdbc/ConnectionHandler;Ljava/util/Properties;)L1acolyte/jdbc/Connection;
+connection
+ (Lacolyte/jdbc/StatementHandler;)Lacolyte/jdbc/Connection;
+ (Lacolyte/jdbc/StatementHandler;)L1acolyte/jdbc/Connection;
+connection
+ (Lacolyte/jdbc/StatementHandler;Ljava/util/Properties;)Lacolyte/jdbc/Connection;
+ (Lacolyte/jdbc/StatementHandler;Ljava/util/Properties;)L1acolyte/jdbc/Connection;

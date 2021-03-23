@@ -1,0 +1,4 @@
+class org/apache/commons/io/output/StringBuilderWriter
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

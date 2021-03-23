@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/expr/SimpleName
+getIdentifier
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

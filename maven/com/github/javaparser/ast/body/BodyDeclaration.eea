@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/body/BodyDeclaration
+getAnnotations
+ ()Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/expr/AnnotationExpr;>;
+ ()L1com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/expr/AnnotationExpr;>;

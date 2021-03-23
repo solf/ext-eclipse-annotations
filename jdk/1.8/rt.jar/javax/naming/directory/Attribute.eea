@@ -1,0 +1,4 @@
+class javax/naming/directory/Attribute
+get
+ ()Ljava/lang/Object;
+ ()L0java/lang/Object;

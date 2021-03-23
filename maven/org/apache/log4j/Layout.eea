@@ -1,0 +1,4 @@
+class org/apache/log4j/Layout
+format
+ (Lorg/apache/log4j/spi/LoggingEvent;)Ljava/lang/String;
+ (L1org/apache/log4j/spi/LoggingEvent;)Ljava/lang/String;

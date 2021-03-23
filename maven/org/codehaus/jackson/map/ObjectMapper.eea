@@ -1,0 +1,13 @@
+class org/codehaus/jackson/map/ObjectMapper
+_readValue
+ (Lorg/codehaus/jackson/map/DeserializationConfig;Lorg/codehaus/jackson/JsonParser;Lorg/codehaus/jackson/type/JavaType;)Ljava/lang/Object;
+ (Lorg/codehaus/jackson/map/DeserializationConfig;Lorg/codehaus/jackson/JsonParser;Lorg/codehaus/jackson/type/JavaType;)L0java/lang/Object;
+readTree
+ (Ljava/lang/String;)Lorg/codehaus/jackson/JsonNode;
+ (Ljava/lang/String;)L1org/codehaus/jackson/JsonNode;
+readValue
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Lorg/codehaus/jackson/type/JavaType;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Lorg/codehaus/jackson/type/JavaType;)T0T;
+readValue
+ <T:Ljava/lang/Object;>(Lorg/codehaus/jackson/JsonNode;Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Lorg/codehaus/jackson/JsonNode;Ljava/lang/Class<TT;>;)T0T;

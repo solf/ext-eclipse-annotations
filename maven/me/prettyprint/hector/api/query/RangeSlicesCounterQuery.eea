@@ -1,0 +1,7 @@
+class me/prettyprint/hector/api/query/RangeSlicesCounterQuery
+setKeys
+ (TK;TK;)Lme/prettyprint/hector/api/query/RangeSlicesCounterQuery<TK;TN;>;
+ (T0K;T0K;)Lme/prettyprint/hector/api/query/RangeSlicesCounterQuery<TK;TN;>;
+setRange
+ (TN;TN;ZI)Lme/prettyprint/hector/api/query/RangeSlicesCounterQuery<TK;TN;>;
+ (T0N;T0N;ZI)Lme/prettyprint/hector/api/query/RangeSlicesCounterQuery<TK;TN;>;

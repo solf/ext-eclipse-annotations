@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithAnnotations
+getAnnotationByClass
+ (Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;)Ljava/util/Optional<Lcom/github/javaparser/ast/expr/AnnotationExpr;>;
+ (Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;)L1java/util/Optional<L1com/github/javaparser/ast/expr/AnnotationExpr;>;

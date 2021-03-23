@@ -1,0 +1,10 @@
+class org/openqa/selenium/By
+id
+ (Ljava/lang/String;)Lorg/openqa/selenium/By;
+ (Ljava/lang/String;)L1org/openqa/selenium/By;
+tagName
+ (Ljava/lang/String;)Lorg/openqa/selenium/By;
+ (Ljava/lang/String;)L1org/openqa/selenium/By;
+xpath
+ (Ljava/lang/String;)Lorg/openqa/selenium/By;
+ (Ljava/lang/String;)L1org/openqa/selenium/By;

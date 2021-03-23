@@ -1,0 +1,10 @@
+class java/util/concurrent/ConcurrentHashMap
+get
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;
+put
+ (TK;TV;)TV;
+ (TK;TV;)T0V;
+putIfAbsent
+ (TK;TV;)TV;
+ (TK;TV;)T0V;

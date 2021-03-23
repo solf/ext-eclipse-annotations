@@ -1,0 +1,37 @@
+class java/lang/Thread
+<init>
+ (Ljava/lang/Runnable;)V
+ (L0java/lang/Runnable;)V
+<init>
+ (Ljava/lang/Runnable;Ljava/lang/String;)V
+ (L0java/lang/Runnable;Ljava/lang/String;)V
+<init>
+ (Ljava/lang/Runnable;Ljava/security/AccessControlContext;)V
+ (L0java/lang/Runnable;Ljava/security/AccessControlContext;)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/Runnable;)V
+ (L0java/lang/ThreadGroup;L0java/lang/Runnable;)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/Runnable;Ljava/lang/String;)V
+ (L0java/lang/ThreadGroup;L0java/lang/Runnable;Ljava/lang/String;)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/Runnable;Ljava/lang/String;J)V
+ (L0java/lang/ThreadGroup;L0java/lang/Runnable;Ljava/lang/String;J)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/Runnable;Ljava/lang/String;JLjava/security/AccessControlContext;Z)V
+ (L0java/lang/ThreadGroup;L0java/lang/Runnable;Ljava/lang/String;JLjava/security/AccessControlContext;Z)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/Runnable;Ljava/lang/String;JZ)V
+ (L0java/lang/ThreadGroup;L0java/lang/Runnable;Ljava/lang/String;JZ)V
+<init>
+ (Ljava/lang/ThreadGroup;Ljava/lang/String;)V
+ (L0java/lang/ThreadGroup;Ljava/lang/String;)V
+currentThread
+ ()Ljava/lang/Thread;
+ ()L1java/lang/Thread;
+getAllStackTraces
+ ()Ljava/util/Map<Ljava/lang/Thread;[Ljava/lang/StackTraceElement;>;
+ ()L1java/util/Map<L1java/lang/Thread;[1L1java/lang/StackTraceElement;>;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

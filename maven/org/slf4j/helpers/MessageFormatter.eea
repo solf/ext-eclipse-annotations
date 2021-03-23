@@ -1,0 +1,4 @@
+class org/slf4j/helpers/MessageFormatter
+arrayFormat
+ (Ljava/lang/String;[Ljava/lang/Object;)Lorg/slf4j/helpers/FormattingTuple;
+ (Ljava/lang/String;[Ljava/lang/Object;)L1org/slf4j/helpers/FormattingTuple;

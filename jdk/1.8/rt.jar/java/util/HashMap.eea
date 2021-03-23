@@ -1,0 +1,13 @@
+class java/util/HashMap
+clone
+ ()Ljava/lang/Object;
+ ()L1java/lang/Object;
+get
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;
+put
+ (TK;TV;)TV;
+ (TK;TV;)T0V;
+remove
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;

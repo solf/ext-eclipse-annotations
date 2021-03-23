@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithMembers
+getConstructors
+ ()Ljava/util/List<Lcom/github/javaparser/ast/body/ConstructorDeclaration;>;
+ ()L1java/util/List<L1com/github/javaparser/ast/body/ConstructorDeclaration;>;

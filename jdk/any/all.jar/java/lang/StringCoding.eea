@@ -1,0 +1,4 @@
+class java/lang/StringCoding
+encode
+ (Ljava/nio/charset/Charset;[CII)[B
+ (Ljava/nio/charset/Charset;[CII)[1B

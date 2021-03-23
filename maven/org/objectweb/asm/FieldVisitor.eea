@@ -1,0 +1,4 @@
+class org/objectweb/asm/FieldVisitor
+visitTypeAnnotation
+ (ILorg/objectweb/asm/TypePath;Ljava/lang/String;Z)Lorg/objectweb/asm/AnnotationVisitor;
+ (IL0org/objectweb/asm/TypePath;L1java/lang/String;Z)L0org/objectweb/asm/AnnotationVisitor;

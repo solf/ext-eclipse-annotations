@@ -1,0 +1,4 @@
+class com/google/api/client/util/store/DataStore
+get
+ (Ljava/lang/String;)TV;
+ (Ljava/lang/String;)T0V;

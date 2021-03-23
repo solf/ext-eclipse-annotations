@@ -1,0 +1,4 @@
+class java/util/concurrent/ThreadPoolExecutor
+getQueue
+ ()Ljava/util/concurrent/BlockingQueue<Ljava/lang/Runnable;>;
+ ()L1java/util/concurrent/BlockingQueue<Ljava/lang/Runnable;>;

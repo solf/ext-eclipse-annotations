@@ -1,0 +1,22 @@
+class org/jdbi/v3/core/Jdbi
+<init>
+ (Lorg/jdbi/v3/core/ConnectionFactory;)V
+ (L1org/jdbi/v3/core/ConnectionFactory;)V
+create
+ (Ljava/lang/String;)Lorg/jdbi/v3/core/Jdbi;
+ (L1java/lang/String;)L1org/jdbi/v3/core/Jdbi;
+create
+ (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/jdbi/v3/core/Jdbi;
+ (L1java/lang/String;L1java/lang/String;L1java/lang/String;)L1org/jdbi/v3/core/Jdbi;
+create
+ (Ljava/lang/String;Ljava/util/Properties;)Lorg/jdbi/v3/core/Jdbi;
+ (L1java/lang/String;L1java/util/Properties;)L1org/jdbi/v3/core/Jdbi;
+create
+ (Ljavax/sql/DataSource;)Lorg/jdbi/v3/core/Jdbi;
+ (L1javax/sql/DataSource;)L1org/jdbi/v3/core/Jdbi;
+create
+ (Lorg/jdbi/v3/core/ConnectionFactory;)Lorg/jdbi/v3/core/Jdbi;
+ (L1org/jdbi/v3/core/ConnectionFactory;)L1org/jdbi/v3/core/Jdbi;
+withExtension
+ <R:Ljava/lang/Object;E:Ljava/lang/Object;X:Ljava/lang/Exception;>(Ljava/lang/Class<TE;>;Lorg/jdbi/v3/core/extension/ExtensionCallback<TR;TE;TX;>;)TR;^Lorg/jdbi/v3/core/extension/NoSuchExtensionException;^TX;
+ <R:Ljava/lang/Object;E:Ljava/lang/Object;X:Ljava/lang/Exception;>(Ljava/lang/Class<TE;>;Lorg/jdbi/v3/core/extension/ExtensionCallback<TR;TE;TX;>;)TR;

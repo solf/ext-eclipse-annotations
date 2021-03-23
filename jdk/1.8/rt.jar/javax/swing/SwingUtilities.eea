@@ -1,0 +1,4 @@
+class javax/swing/SwingUtilities
+convertMouseEvent
+ (Ljava/awt/Component;Ljava/awt/event/MouseEvent;Ljava/awt/Component;)Ljava/awt/event/MouseEvent;
+ (Ljava/awt/Component;Ljava/awt/event/MouseEvent;Ljava/awt/Component;)L1java/awt/event/MouseEvent;

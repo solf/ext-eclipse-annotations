@@ -1,0 +1,34 @@
+class java/util/Map
+compute
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+computeIfAbsent
+ (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
+ (TK;Ljava/util/function/Function<-TK;+TV;>;)T0V;
+computeIfPresent
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+entrySet
+ ()Ljava/util/Set<Ljava/util/Map$Entry<TK;TV;>;>;
+ ()L1java/util/Set<L1java/util/Map$Entry<TK;TV;>;>;
+get
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;
+merge
+ (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
+ (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)T0V;
+put
+ (TK;TV;)TV;
+ (TK;TV;)T0V;
+putIfAbsent
+ (TK;TV;)TV;
+ (TK;TV;)T0V;
+remove
+ (Ljava/lang/Object;)TV;
+ (Ljava/lang/Object;)T0V;
+replace
+ (TK;TV;)TV;
+ (TK;TV;)T0V;
+values
+ ()Ljava/util/Collection<TV;>;
+ ()L1java/util/Collection<TV;>;

@@ -1,0 +1,4 @@
+class org/codehaus/jackson/map/JsonDeserializer
+deserialize
+ (Lorg/codehaus/jackson/JsonParser;Lorg/codehaus/jackson/map/DeserializationContext;)TT;
+ (L1org/codehaus/jackson/JsonParser;L1org/codehaus/jackson/map/DeserializationContext;)TT;

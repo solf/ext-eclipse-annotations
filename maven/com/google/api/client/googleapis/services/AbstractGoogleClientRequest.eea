@@ -1,0 +1,4 @@
+class com/google/api/client/googleapis/services/AbstractGoogleClientRequest
+executeMediaAsInputStream
+ ()Ljava/io/InputStream;
+ ()L0java/io/InputStream;

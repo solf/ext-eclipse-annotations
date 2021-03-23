@@ -1,0 +1,4 @@
+class com/google/api/client/googleapis/util/Utils$TransportInstanceHolder
+INSTANCE
+ Lcom/google/api/client/http/HttpTransport;
+ L1com/google/api/client/http/HttpTransport;

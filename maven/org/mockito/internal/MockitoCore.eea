@@ -1,0 +1,4 @@
+class org/mockito/internal/MockitoCore
+mock
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Lorg/mockito/MockSettings;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Lorg/mockito/MockSettings;)T1T;

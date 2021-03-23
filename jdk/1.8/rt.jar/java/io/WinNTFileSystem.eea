@@ -1,0 +1,4 @@
+class java/io/WinNTFileSystem
+resolve
+ (Ljava/io/File;)Ljava/lang/String;
+ (Ljava/io/File;)L1java/lang/String;

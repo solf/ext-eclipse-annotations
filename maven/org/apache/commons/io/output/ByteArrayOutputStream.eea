@@ -1,0 +1,4 @@
+class org/apache/commons/io/output/ByteArrayOutputStream
+toByteArray
+ ()[B
+ ()[1B

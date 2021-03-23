@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithJavadoc
+getJavadoc
+ ()Ljava/util/Optional<Lcom/github/javaparser/javadoc/Javadoc;>;
+ ()L1java/util/Optional<L1com/github/javaparser/javadoc/Javadoc;>;

@@ -1,0 +1,4 @@
+class com/github/javaparser/javadoc/description/JavadocDescription
+toText
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

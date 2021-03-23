@@ -1,0 +1,4 @@
+class org/objectweb/asm/ClassVisitor
+visitField
+ (ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lorg/objectweb/asm/FieldVisitor;
+ (IL1java/lang/String;L1java/lang/String;L0java/lang/String;L0java/lang/Object;)L0org/objectweb/asm/FieldVisitor;

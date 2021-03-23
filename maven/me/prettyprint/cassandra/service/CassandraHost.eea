@@ -1,0 +1,4 @@
+class me/prettyprint/cassandra/service/CassandraHost
+getIp
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

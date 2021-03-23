@@ -1,0 +1,7 @@
+class java/text/NumberFormat
+getCurrencyInstance
+ (Ljava/util/Locale;)Ljava/text/NumberFormat;
+ (Ljava/util/Locale;)L1java/text/NumberFormat;
+getNumberInstance
+ (Ljava/util/Locale;)Ljava/text/NumberFormat;
+ (Ljava/util/Locale;)L1java/text/NumberFormat;

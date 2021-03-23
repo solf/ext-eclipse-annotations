@@ -1,0 +1,4 @@
+class me/prettyprint/cassandra/serializers/LongSerializer
+get
+ ()Lme/prettyprint/cassandra/serializers/LongSerializer;
+ ()L1me/prettyprint/cassandra/serializers/LongSerializer;

@@ -1,0 +1,4 @@
+class me/prettyprint/cassandra/serializers/BytesArraySerializer
+get
+ ()Lme/prettyprint/cassandra/serializers/BytesArraySerializer;
+ ()L1me/prettyprint/cassandra/serializers/BytesArraySerializer;

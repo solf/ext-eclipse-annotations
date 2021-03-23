@@ -1,0 +1,4 @@
+class org/joda/time/base/AbstractPartial
+toString
+ (Lorg/joda/time/format/DateTimeFormatter;)Ljava/lang/String;
+ (Lorg/joda/time/format/DateTimeFormatter;)L1java/lang/String;

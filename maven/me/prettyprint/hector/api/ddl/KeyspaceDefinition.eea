@@ -1,0 +1,4 @@
+class me/prettyprint/hector/api/ddl/KeyspaceDefinition
+getCfDefs
+ ()Ljava/util/List<Lme/prettyprint/hector/api/ddl/ColumnFamilyDefinition;>;
+ ()L1java/util/List<L1me/prettyprint/hector/api/ddl/ColumnFamilyDefinition;>;

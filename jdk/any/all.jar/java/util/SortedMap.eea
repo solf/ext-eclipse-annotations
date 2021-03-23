@@ -1,0 +1,4 @@
+class java/util/SortedMap
+entrySet
+ ()Ljava/util/Set<Ljava/util/Map$Entry<TK;TV;>;>;
+ ()Ljava/util/Set<L1java/util/Map$Entry<TK;TV;>;>;

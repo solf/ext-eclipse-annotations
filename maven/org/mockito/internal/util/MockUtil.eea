@@ -1,0 +1,4 @@
+class org/mockito/internal/util/MockUtil
+createMock
+ <T:Ljava/lang/Object;>(Lorg/mockito/mock/MockCreationSettings<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Lorg/mockito/mock/MockCreationSettings<TT;>;)T1T;

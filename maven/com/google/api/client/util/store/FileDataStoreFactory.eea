@@ -1,0 +1,4 @@
+class com/google/api/client/util/store/FileDataStoreFactory
+createDataStore
+ <V::Ljava/io/Serializable;>(Ljava/lang/String;)Lcom/google/api/client/util/store/DataStore<TV;>;
+ <V::Ljava/io/Serializable;>(Ljava/lang/String;)L1com/google/api/client/util/store/DataStore<TV;>;

@@ -1,0 +1,19 @@
+class org/joda/time/LocalDate
+minusDays
+ (I)Lorg/joda/time/LocalDate;
+ (I)L1org/joda/time/LocalDate;
+parse
+ (Ljava/lang/String;)Lorg/joda/time/LocalDate;
+ (Ljava/lang/String;)L1org/joda/time/LocalDate;
+parse
+ (Ljava/lang/String;Lorg/joda/time/format/DateTimeFormatter;)Lorg/joda/time/LocalDate;
+ (Ljava/lang/String;Lorg/joda/time/format/DateTimeFormatter;)L1org/joda/time/LocalDate;
+plusDays
+ (I)Lorg/joda/time/LocalDate;
+ (I)L1org/joda/time/LocalDate;
+toDateTime
+ (Lorg/joda/time/LocalTime;Lorg/joda/time/DateTimeZone;)Lorg/joda/time/DateTime;
+ (Lorg/joda/time/LocalTime;Lorg/joda/time/DateTimeZone;)L1org/joda/time/DateTime;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

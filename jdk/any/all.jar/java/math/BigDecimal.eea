@@ -1,0 +1,22 @@
+class java/math/BigDecimal
+ONE
+ Ljava/math/BigDecimal;
+ L1java/math/BigDecimal;
+ZERO
+ Ljava/math/BigDecimal;
+ L1java/math/BigDecimal;
+add
+ (JIJI)Ljava/math/BigDecimal;
+ (JIJI)L1java/math/BigDecimal;
+add
+ (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
+ (Ljava/math/BigDecimal;)L1java/math/BigDecimal;
+divide
+ (Ljava/math/BigDecimal;ILjava/math/RoundingMode;)Ljava/math/BigDecimal;
+ (Ljava/math/BigDecimal;ILjava/math/RoundingMode;)L1java/math/BigDecimal;
+multiply
+ (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
+ (Ljava/math/BigDecimal;)L1java/math/BigDecimal;
+subtract
+ (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
+ (Ljava/math/BigDecimal;)L1java/math/BigDecimal;

@@ -1,0 +1,7 @@
+class com/github/javaparser/ast/NodeList
+get
+ (I)TN;
+ (I)TN;
+iterator
+ ()Ljava/util/Iterator<TN;>;
+ ()L1java/util/Iterator<T1N;>;

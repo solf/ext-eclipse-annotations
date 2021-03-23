@@ -1,0 +1,4 @@
+class com/gargoylesoftware/htmlunit/html/DomNode
+asText
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

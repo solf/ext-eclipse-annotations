@@ -1,0 +1,4 @@
+class com/rits/cloning/Cloner
+deepClone
+ <T:Ljava/lang/Object;>(TT;)TT;
+ <T:Ljava/lang/Object;>(TT;)TT;

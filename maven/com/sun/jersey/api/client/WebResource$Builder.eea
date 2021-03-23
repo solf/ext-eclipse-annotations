@@ -1,0 +1,4 @@
+class com/sun/jersey/api/client/WebResource$Builder
+post
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Ljava/lang/Object;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;Ljava/lang/Object;)TT;

@@ -1,0 +1,7 @@
+class org/apache/maven/artifact/versioning/ComparableVersion
+parseVersion
+ (Ljava/lang/String;)V
+ (L1java/lang/String;)V
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

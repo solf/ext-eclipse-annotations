@@ -1,0 +1,10 @@
+class java/io/ObjectInputStream
+readNull
+ ()Ljava/lang/Object;
+ ()L0java/lang/Object;
+readObject
+ ()Ljava/lang/Object;
+ ()L0java/lang/Object;
+readObject0
+ (Z)Ljava/lang/Object;
+ (Z)L0java/lang/Object;

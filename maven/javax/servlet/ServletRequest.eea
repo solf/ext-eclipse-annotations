@@ -1,0 +1,10 @@
+class javax/servlet/ServletRequest
+getParameter
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L0java/lang/String;
+getParameterMap
+ ()Ljava/util/Map<Ljava/lang/String;[Ljava/lang/String;>;
+ ()L1java/util/Map<L1java/lang/String;[1L1java/lang/String;>;
+getRemoteHost
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

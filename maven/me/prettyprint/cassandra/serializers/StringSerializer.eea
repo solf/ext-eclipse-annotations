@@ -1,0 +1,4 @@
+class me/prettyprint/cassandra/serializers/StringSerializer
+get
+ ()Lme/prettyprint/cassandra/serializers/StringSerializer;
+ ()L1me/prettyprint/cassandra/serializers/StringSerializer;

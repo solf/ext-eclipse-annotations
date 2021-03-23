@@ -1,0 +1,13 @@
+class java/sql/DriverManager
+getConnection
+ (Ljava/lang/String;)Ljava/sql/Connection;
+ (Ljava/lang/String;)L1java/sql/Connection;
+getConnection
+ (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)L1java/sql/Connection;
+getConnection
+ (Ljava/lang/String;Ljava/util/Properties;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/util/Properties;)L1java/sql/Connection;
+getConnection
+ (Ljava/lang/String;Ljava/util/Properties;Ljava/lang/Class<*>;)Ljava/sql/Connection;
+ (Ljava/lang/String;Ljava/util/Properties;Ljava/lang/Class<*>;)L1java/sql/Connection;

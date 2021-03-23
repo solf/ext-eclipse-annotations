@@ -1,0 +1,19 @@
+class java/net/InetAddress
+getAllByName
+ (Ljava/lang/String;)[Ljava/net/InetAddress;
+ (Ljava/lang/String;)[1L1java/net/InetAddress;
+getAllByName
+ (Ljava/lang/String;Ljava/net/InetAddress;)[Ljava/net/InetAddress;
+ (Ljava/lang/String;Ljava/net/InetAddress;)[L1java/net/InetAddress;
+getAllByName0
+ (Ljava/lang/String;Ljava/net/InetAddress;Z)[Ljava/net/InetAddress;
+ (Ljava/lang/String;Ljava/net/InetAddress;Z)[L1java/net/InetAddress;
+getByAddress
+ ([B)Ljava/net/InetAddress;
+ ([B)L1java/net/InetAddress;
+getByName
+ (Ljava/lang/String;)Ljava/net/InetAddress;
+ (Ljava/lang/String;)L1java/net/InetAddress;
+getCanonicalHostName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

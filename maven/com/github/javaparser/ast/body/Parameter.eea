@@ -1,0 +1,7 @@
+class com/github/javaparser/ast/body/Parameter
+clone
+ ()Lcom/github/javaparser/ast/body/Parameter;
+ ()L1com/github/javaparser/ast/body/Parameter;
+getAnnotations
+ ()Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/expr/AnnotationExpr;>;
+ ()L1com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/expr/AnnotationExpr;>;

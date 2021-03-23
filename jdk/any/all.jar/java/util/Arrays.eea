@@ -1,0 +1,16 @@
+class java/util/Arrays
+asList
+ <T:Ljava/lang/Object;>([TT;)Ljava/util/List<TT;>;
+ <T:Ljava/lang/Object;>([1TT;)L1java/util/List<TT;>;
+copyOf
+ <T:Ljava/lang/Object;>([TT;I)[TT;
+ <T:Ljava/lang/Object;>([TT;I)[1TT;
+stream
+ <T:Ljava/lang/Object;>([TT;)Ljava/util/stream/Stream<TT;>;
+ <T:Ljava/lang/Object;>([TT;)L1java/util/stream/Stream<TT;>;
+stream
+ <T:Ljava/lang/Object;>([TT;II)Ljava/util/stream/Stream<TT;>;
+ <T:Ljava/lang/Object;>([TT;II)L1java/util/stream/Stream<TT;>;
+toString
+ ([Ljava/lang/Object;)Ljava/lang/String;
+ ([Ljava/lang/Object;)L1java/lang/String;

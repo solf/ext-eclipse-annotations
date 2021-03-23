@@ -1,0 +1,7 @@
+class org/jdbi/v3/core/Handle
+attach
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)T1T;
+createUpdate
+ (Ljava/lang/String;)Lorg/jdbi/v3/core/statement/Update;
+ (Ljava/lang/String;)L1org/jdbi/v3/core/statement/Update;

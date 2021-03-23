@@ -1,0 +1,7 @@
+class java/util/concurrent/locks/ReentrantReadWriteLock
+readLock
+ ()Ljava/util/concurrent/locks/ReentrantReadWriteLock$ReadLock;
+ ()L1java/util/concurrent/locks/ReentrantReadWriteLock$ReadLock;
+writeLock
+ ()Ljava/util/concurrent/locks/ReentrantReadWriteLock$WriteLock;
+ ()L1java/util/concurrent/locks/ReentrantReadWriteLock$WriteLock;

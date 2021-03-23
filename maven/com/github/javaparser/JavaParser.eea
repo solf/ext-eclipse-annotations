@@ -1,0 +1,13 @@
+class com/github/javaparser/JavaParser
+parse
+ (Ljava/io/File;)Lcom/github/javaparser/ParseResult<Lcom/github/javaparser/ast/CompilationUnit;>;
+ (Ljava/io/File;)L1com/github/javaparser/ParseResult<L1com/github/javaparser/ast/CompilationUnit;>;
+parse
+ (Ljava/nio/file/Path;)Lcom/github/javaparser/ParseResult<Lcom/github/javaparser/ast/CompilationUnit;>;
+ (Ljava/nio/file/Path;)L1com/github/javaparser/ParseResult<L1com/github/javaparser/ast/CompilationUnit;>;
+parse
+ <N:Lcom/github/javaparser/ast/Node;>(Lcom/github/javaparser/ParseStart<TN;>;Lcom/github/javaparser/Provider;)Lcom/github/javaparser/ParseResult<TN;>;
+ <N:Lcom/github/javaparser/ast/Node;>(Lcom/github/javaparser/ParseStart<TN;>;Lcom/github/javaparser/Provider;)L1com/github/javaparser/ParseResult<T1N;>;
+parseBlock
+ (Ljava/lang/String;)Lcom/github/javaparser/ParseResult<Lcom/github/javaparser/ast/stmt/BlockStmt;>;
+ (Ljava/lang/String;)L1com/github/javaparser/ParseResult<L1com/github/javaparser/ast/stmt/BlockStmt;>;

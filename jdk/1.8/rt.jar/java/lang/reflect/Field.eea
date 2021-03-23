@@ -1,0 +1,10 @@
+class java/lang/reflect/Field
+getAnnotation
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)TT;
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)T0T;
+getDeclaringClass
+ ()Ljava/lang/Class<*>;
+ ()L1java/lang/Class<*>;
+getName
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

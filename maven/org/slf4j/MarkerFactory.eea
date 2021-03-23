@@ -1,0 +1,4 @@
+class org/slf4j/MarkerFactory
+getMarker
+ (Ljava/lang/String;)Lorg/slf4j/Marker;
+ (Ljava/lang/String;)L1org/slf4j/Marker;

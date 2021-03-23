@@ -1,0 +1,4 @@
+class com/google/api/services/dfareporting/Dfareporting$Builder
+build
+ ()Lcom/google/api/services/dfareporting/Dfareporting;
+ ()L1com/google/api/services/dfareporting/Dfareporting;

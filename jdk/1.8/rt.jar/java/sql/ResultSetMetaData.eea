@@ -1,0 +1,4 @@
+class java/sql/ResultSetMetaData
+getColumnName
+ (I)Ljava/lang/String;
+ (I)L1java/lang/String;
