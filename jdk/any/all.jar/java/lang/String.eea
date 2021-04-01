@@ -44,3 +44,6 @@ trim
 valueOf
  (I)Ljava/lang/String;
  (I)L1java/lang/String;
+valueOf
+ (J)Ljava/lang/String;
+ (J)L1java/lang/String;
