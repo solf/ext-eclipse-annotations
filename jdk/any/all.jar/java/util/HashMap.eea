@@ -2,9 +2,21 @@ class java/util/HashMap
 clone
  ()Ljava/lang/Object;
  ()L1java/lang/Object;
+compute
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;Ljava/util/function/BiFunction<-TK;-0T0V;+0T0V;>;)T0V;
+computeIfAbsent
+ (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
+ (TK;Ljava/util/function/Function<-TK;+0T0V;>;)T0V;
+computeIfPresent
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;Ljava/util/function/BiFunction<-TK;-1T1V;+0T0V;>;)T0V;
 get
  (Ljava/lang/Object;)TV;
  (Ljava/lang/Object;)T0V;
+merge
+ (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
+ (TK;T1V;Ljava/util/function/BiFunction<-1T1V;-1T1V;+0T0V;>;)T0V;
 put
  (TK;TV;)TV;
  (TK;TV;)T0V;

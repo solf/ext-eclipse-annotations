@@ -1,13 +1,13 @@
 class java/util/Map
 compute
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+ (TK;Ljava/util/function/BiFunction<-TK;-0T0V;+0T0V;>;)T0V;
 computeIfAbsent
  (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
- (TK;Ljava/util/function/Function<-TK;+TV;>;)T0V;
+ (TK;Ljava/util/function/Function<-TK;+0T0V;>;)T0V;
 computeIfPresent
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+ (TK;Ljava/util/function/BiFunction<-TK;-1T1V;+0T0V;>;)T0V;
 entrySet
  ()Ljava/util/Set<Ljava/util/Map$Entry<TK;TV;>;>;
  ()L1java/util/Set<L1java/util/Map$Entry<TK;TV;>;>;
@@ -19,7 +19,7 @@ keySet
  ()L1java/util/Set<TK;>;
 merge
  (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
- (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)T0V;
+ (TK;T1V;Ljava/util/function/BiFunction<-1T1V;-1T1V;+0T0V;>;)T0V;
 of
  <K:Ljava/lang/Object;V:Ljava/lang/Object;>()Ljava/util/Map<TK;TV;>;
  <K:Ljava/lang/Object;V:Ljava/lang/Object;>()L1java/util/Map<TK;TV;>;
