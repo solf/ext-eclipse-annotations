@@ -8,6 +8,9 @@ EMPTY_MAP
 EMPTY_SET
  Ljava/util/Set;
  L1java/util/Set;
+emptyEnumeration
+ <T:Ljava/lang/Object;>()Ljava/util/Enumeration<TT;>;
+ <T:Ljava/lang/Object;>()L1java/util/Enumeration<TT;>;
 emptyIterator
  <T:Ljava/lang/Object;>()Ljava/util/Iterator<TT;>;
  <T:Ljava/lang/Object;>()L1java/util/Iterator<TT;>;

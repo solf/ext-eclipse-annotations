@@ -1,7 +1,19 @@
 class java/util/concurrent/ConcurrentHashMap
+compute
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;L1java/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+computeIfAbsent
+ (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
+ (TK;L1java/util/function/Function<-TK;+TV;>;)TV;
+computeIfPresent
+ (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
+ (TK;L1java/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
 get
  (Ljava/lang/Object;)TV;
  (Ljava/lang/Object;)T0V;
+merge
+ (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
+ (TK;TV;L1java/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
 put
  (TK;TV;)TV;
  (TK;TV;)T0V;

@@ -1,16 +1,16 @@
 class java/util/concurrent/ConcurrentMap
 compute
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+ (TK;L1java/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
 computeIfAbsent
  (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
- (TK;Ljava/util/function/Function<-TK;+TV;>;)T0V;
+ (TK;L1java/util/function/Function<-TK;+TV;>;)T0V;
 computeIfPresent
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
+ (TK;L1java/util/function/BiFunction<-TK;-TV;+TV;>;)T0V;
 merge
  (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)TV;
- (TK;TV;Ljava/util/function/BiFunction<-TV;-TV;+TV;>;)T0V;
+ (TK;TV;L1java/util/function/BiFunction<-TV;-TV;+TV;>;)T0V;
 putIfAbsent
  (TK;TV;)TV;
  (TK;TV;)T0V;

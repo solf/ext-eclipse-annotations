@@ -1,13 +1,13 @@
 class java/util/Map
 compute
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-0T0V;+0T0V;>;)T0V;
+ (TK;L1java/util/function/BiFunction<-TK;-0T0V;+0T0V;>;)T0V;
 computeIfAbsent
  (TK;Ljava/util/function/Function<-TK;+TV;>;)TV;
- (TK;Ljava/util/function/Function<-TK;+0T0V;>;)T0V;
+ (TK;L1java/util/function/Function<-TK;+0T0V;>;)T0V;
 computeIfPresent
  (TK;Ljava/util/function/BiFunction<-TK;-TV;+TV;>;)TV;
- (TK;Ljava/util/function/BiFunction<-TK;-1T1V;+0T0V;>;)T0V;
+ (TK;L1java/util/function/BiFunction<-TK;-1T1V;+0T0V;>;)T0V;
 entrySet
  ()Ljava/util/Set<Ljava/util/Map$Entry<TK;TV;>;>;
  ()L1java/util/Set<L1java/util/Map$Entry<TK;TV;>;>;
@@ -56,6 +56,9 @@ of
 put
  (TK;TV;)TV;
  (TK;TV;)T0V;
+putAll
+ (Ljava/util/Map<+TK;+TV;>;)V
+ (L1java/util/Map<+TK;+TV;>;)V
 putIfAbsent
  (TK;TV;)TV;
  (TK;TV;)T0V;
