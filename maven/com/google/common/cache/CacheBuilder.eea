@@ -1,0 +1,4 @@
+class com/google/common/cache/CacheBuilder
+build
+ <K1:TK;V1:TV;>()Lcom/google/common/cache/Cache<TK1;TV1;>;
+ <K1:TK;V1:TV;>()L1com/google/common/cache/Cache<TK1;TV1;>;

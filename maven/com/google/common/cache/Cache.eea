@@ -1,0 +1,4 @@
+class com/google/common/cache/Cache
+asMap
+ ()Ljava/util/concurrent/ConcurrentMap<TK;TV;>;
+ ()L1java/util/concurrent/ConcurrentMap<TK;TV;>;
