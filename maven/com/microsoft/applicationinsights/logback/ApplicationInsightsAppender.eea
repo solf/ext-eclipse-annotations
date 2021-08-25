@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/logback/ApplicationInsightsAppender
+append
+ (Lch/qos/logback/classic/spi/ILoggingEvent;)V
+ (L1ch/qos/logback/classic/spi/ILoggingEvent;)V

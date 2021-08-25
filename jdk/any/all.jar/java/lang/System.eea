@@ -1,4 +1,7 @@
 class java/lang/System
+getenv
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
 in
  Ljava/io/InputStream;
  L1java/io/InputStream;
