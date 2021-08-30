@@ -1,0 +1,4 @@
+class org/slf4j/MDC
+get
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
