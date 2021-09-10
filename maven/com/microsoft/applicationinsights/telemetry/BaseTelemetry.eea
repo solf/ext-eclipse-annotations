@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/telemetry/BaseTelemetry
+getContext
+ ()Lcom/microsoft/applicationinsights/telemetry/TelemetryContext;
+ ()L1com/microsoft/applicationinsights/telemetry/TelemetryContext;

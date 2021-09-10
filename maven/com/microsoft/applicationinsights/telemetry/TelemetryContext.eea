@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/telemetry/TelemetryContext
+getOperation
+ ()Lcom/microsoft/applicationinsights/extensibility/context/OperationContext;
+ ()L1com/microsoft/applicationinsights/extensibility/context/OperationContext;

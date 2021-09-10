@@ -2,3 +2,6 @@ class org/slf4j/MDC
 get
  (Ljava/lang/String;)Ljava/lang/String;
  (L1java/lang/String;)L0java/lang/String;
+putCloseable
+ (Ljava/lang/String;Ljava/lang/String;)Lorg/slf4j/MDC$MDCCloseable;
+ (Ljava/lang/String;Ljava/lang/String;)L1org/slf4j/MDC$MDCCloseable;

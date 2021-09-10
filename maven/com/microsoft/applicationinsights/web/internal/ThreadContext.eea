@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/web/internal/ThreadContext
+getRequestTelemetryContext
+ ()Lcom/microsoft/applicationinsights/web/internal/RequestTelemetryContext;
+ ()L0com/microsoft/applicationinsights/web/internal/RequestTelemetryContext;
