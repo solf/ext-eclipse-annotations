@@ -1,7 +1,19 @@
 class java/lang/Throwable
+<init>
+ (Ljava/lang/String;Ljava/lang/Throwable;)V
+ (Ljava/lang/String;L0java/lang/Throwable;)V
+<init>
+ (Ljava/lang/String;Ljava/lang/Throwable;ZZ)V
+ (Ljava/lang/String;L0java/lang/Throwable;ZZ)V
+<init>
+ (Ljava/lang/Throwable;)V
+ (L0java/lang/Throwable;)V
 getCause
  ()Ljava/lang/Throwable;
  ()L0java/lang/Throwable;
+getMessage
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
 getStackTrace
  ()[Ljava/lang/StackTraceElement;
  ()[L1java/lang/StackTraceElement;

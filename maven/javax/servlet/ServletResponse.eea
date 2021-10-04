@@ -1,0 +1,4 @@
+class javax/servlet/ServletResponse
+getWriter
+ ()Ljava/io/PrintWriter;
+ ()L1java/io/PrintWriter;
