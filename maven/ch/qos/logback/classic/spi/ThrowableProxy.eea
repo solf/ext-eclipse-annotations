@@ -1,0 +1,10 @@
+class ch/qos/logback/classic/spi/ThrowableProxy
+<init>
+ (Ljava/lang/Throwable;)V
+ (L1java/lang/Throwable;)V
+getThrowable
+ ()Ljava/lang/Throwable;
+ ()L1java/lang/Throwable;
+throwable
+ Ljava/lang/Throwable;
+ L1java/lang/Throwable;
