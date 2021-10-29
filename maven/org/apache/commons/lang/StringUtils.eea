@@ -1,4 +1,7 @@
 class org/apache/commons/lang/StringUtils
+defaultString
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L1java/lang/String;
 join
  ([Ljava/lang/Object;C)Ljava/lang/String;
  ([0Ljava/lang/Object;C)L0java/lang/String;
