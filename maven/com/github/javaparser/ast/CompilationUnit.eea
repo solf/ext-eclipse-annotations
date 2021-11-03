@@ -2,3 +2,6 @@ class com/github/javaparser/ast/CompilationUnit
 getClassByName
  (Ljava/lang/String;)Ljava/util/Optional<Lcom/github/javaparser/ast/body/ClassOrInterfaceDeclaration;>;
  (Ljava/lang/String;)L1java/util/Optional<L1com/github/javaparser/ast/body/ClassOrInterfaceDeclaration;>;
+getPackageDeclaration
+ ()Ljava/util/Optional<Lcom/github/javaparser/ast/PackageDeclaration;>;
+ ()L1java/util/Optional<L1com/github/javaparser/ast/PackageDeclaration;>;
