@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/TelemetryClient
+trackEvent
+ (Ljava/lang/String;Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;Ljava/util/Map<Ljava/lang/String;Ljava/lang/Double;>;)V
+ (L0java/lang/String;L0java/util/Map<Ljava/lang/String;Ljava/lang/String;>;L0java/util/Map<Ljava/lang/String;Ljava/lang/Double;>;)V
