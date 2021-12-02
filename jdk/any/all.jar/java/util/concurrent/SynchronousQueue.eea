@@ -5,3 +5,6 @@ poll
 poll
  (JLjava/util/concurrent/TimeUnit;)TE;
  (JLjava/util/concurrent/TimeUnit;)T0E;
+take
+ ()TE;
+ ()T1E;

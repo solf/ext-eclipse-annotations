@@ -1,0 +1,4 @@
+class java/util/concurrent/CompletableFuture
+completeExceptionally
+ (Ljava/lang/Throwable;)Z
+ (L1java/lang/Throwable;)Z
