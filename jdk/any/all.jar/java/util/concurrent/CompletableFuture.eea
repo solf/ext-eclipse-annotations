@@ -2,3 +2,6 @@ class java/util/concurrent/CompletableFuture
 completeExceptionally
  (Ljava/lang/Throwable;)Z
  (L1java/lang/Throwable;)Z
+get
+ (JLjava/util/concurrent/TimeUnit;)TT;
+ (JL1java/util/concurrent/TimeUnit;)TT;
