@@ -1,0 +1,7 @@
+class org/apache/commons/ssl/util/Hex
+encode
+ ([B)Ljava/lang/String;
+ ([B)L1java/lang/String;
+encode
+ ([BII)Ljava/lang/String;
+ ([BII)L1java/lang/String;
