@@ -1,0 +1,7 @@
+class losty/netatmo/model/Station
+getModules
+ ()Ljava/util/List<Llosty/netatmo/model/Module;>;
+ ()L1java/util/List<L1losty/netatmo/model/Module;>;
+modules
+ Ljava/util/List<Llosty/netatmo/model/Module;>;
+ L1java/util/List<L1losty/netatmo/model/Module;>;

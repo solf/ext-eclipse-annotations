@@ -1,0 +1,7 @@
+class losty/netatmo/NetatmoParseUtils
+parseMeasures
+ (Lorg/json/JSONObject;[Ljava/lang/String;)Ljava/util/List<Llosty/netatmo/model/Measures;>;
+ (Lorg/json/JSONObject;[Ljava/lang/String;)L1java/util/List<L1losty/netatmo/model/Measures;>;
+parseStationsData
+ (Lorg/json/JSONObject;)Ljava/util/List<Llosty/netatmo/model/Station;>;
+ (Lorg/json/JSONObject;)L1java/util/List<L1losty/netatmo/model/Station;>;

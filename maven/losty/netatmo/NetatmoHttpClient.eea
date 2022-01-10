@@ -1,0 +1,7 @@
+class losty/netatmo/NetatmoHttpClient
+getMeasures
+ (Llosty/netatmo/model/Station;Llosty/netatmo/model/Module;Ljava/util/List<Ljava/lang/String;>;Ljava/lang/String;Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/Integer;Ljava/lang/Boolean;)Ljava/util/List<Llosty/netatmo/model/Measures;>;
+ (Llosty/netatmo/model/Station;Llosty/netatmo/model/Module;Ljava/util/List<Ljava/lang/String;>;Ljava/lang/String;Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/Integer;Ljava/lang/Boolean;)L1java/util/List<L1losty/netatmo/model/Measures;>;
+getStationsData
+ (Llosty/netatmo/model/Station;Ljava/lang/Boolean;)Ljava/util/List<Llosty/netatmo/model/Station;>;
+ (Llosty/netatmo/model/Station;Ljava/lang/Boolean;)L1java/util/List<L1losty/netatmo/model/Station;>;

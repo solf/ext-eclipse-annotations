@@ -8,6 +8,9 @@ get
 put
  (TK;TV;)TV;
  (TK;TV;)T0V;
+putAll
+ (Ljava/util/Map<+TK;+TV;>;)V
+ (L1java/util/Map<+TK;+TV;>;)V
 remove
  (Ljava/lang/Object;)TV;
  (Ljava/lang/Object;)T0V;
