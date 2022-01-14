@@ -1,0 +1,7 @@
+class redis/clients/jedis/Transaction
+exec
+ ()Ljava/util/List<Ljava/lang/Object;>;
+ ()L0java/util/List<L0java/lang/Object;>;
+execGetResponse
+ ()Ljava/util/List<Lredis/clients/jedis/Response<*>;>;
+ ()L0java/util/List<Lredis/clients/jedis/Response<*>;>;

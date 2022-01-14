@@ -1,0 +1,4 @@
+class org/apache/commons/lang/SerializationUtils
+serialize
+ (Ljava/io/Serializable;)[B
+ (Ljava/io/Serializable;)[1B

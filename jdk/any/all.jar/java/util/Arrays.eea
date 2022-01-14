@@ -3,6 +3,9 @@ asList
  <T:Ljava/lang/Object;>([TT;)Ljava/util/List<TT;>;
  <T:Ljava/lang/Object;>([1TT;)L1java/util/List<TT;>;
 copyOf
+ ([BI)[B
+ ([BI)[1B
+copyOf
  <T:Ljava/lang/Object;>([TT;I)[TT;
  <T:Ljava/lang/Object;>([TT;I)[1TT;
 stream

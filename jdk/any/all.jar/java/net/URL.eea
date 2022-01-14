@@ -1,0 +1,4 @@
+class java/net/URL
+openConnection
+ ()Ljava/net/URLConnection;
+ ()L1java/net/URLConnection;
