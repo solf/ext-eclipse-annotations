@@ -1,0 +1,7 @@
+class redis/clients/jedis/Protocol
+process
+ (Lredis/clients/jedis/util/RedisInputStream;)Ljava/lang/Object;
+ (Lredis/clients/jedis/util/RedisInputStream;)L0java/lang/Object;
+read
+ (Lredis/clients/jedis/util/RedisInputStream;)Ljava/lang/Object;
+ (Lredis/clients/jedis/util/RedisInputStream;)L0java/lang/Object;

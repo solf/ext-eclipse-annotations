@@ -1,0 +1,4 @@
+class redis/clients/jedis/BinaryJedis
+del
+ ([B)Ljava/lang/Long;
+ ([B)L0java/lang/Long;

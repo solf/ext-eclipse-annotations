@@ -1,0 +1,7 @@
+class redis/clients/jedis/Connection
+getIntegerReply
+ ()Ljava/lang/Long;
+ ()L0java/lang/Long;
+readProtocolWithCheckingBroken
+ ()Ljava/lang/Object;
+ ()L0java/lang/Object;
