@@ -1,0 +1,4 @@
+class java/net/HttpURLConnection
+getErrorStream
+ ()Ljava/io/InputStream;
+ ()L0java/io/InputStream;
