@@ -2,3 +2,6 @@ class com/microsoft/applicationinsights/extensibility/context/OperationContext
 getId
  ()Ljava/lang/String;
  ()L0java/lang/String;
+setId
+ (Ljava/lang/String;)V
+ (L0java/lang/String;)V

@@ -1,0 +1,7 @@
+class com/microsoft/applicationinsights/internal/util/MapUtil
+getValueOrNull
+ <Key:Ljava/lang/Object;Value:Ljava/lang/Object;>(Ljava/util/Map<TKey;TValue;>;TKey;)TValue;
+ <Key:Ljava/lang/Object;Value:Ljava/lang/Object;>(Ljava/util/Map<TKey;TValue;>;TKey;)T0Value;
+setStringValueOrRemove
+ (Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;Ljava/lang/String;Ljava/lang/String;)V
+ (Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;Ljava/lang/String;L0java/lang/String;)V
