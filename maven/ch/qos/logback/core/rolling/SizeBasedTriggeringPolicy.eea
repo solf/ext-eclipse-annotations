@@ -1,0 +1,4 @@
+class ch/qos/logback/core/rolling/SizeBasedTriggeringPolicy
+isTriggeringEvent
+ (Ljava/io/File;TE;)Z
+ (L1java/io/File;TE;)Z

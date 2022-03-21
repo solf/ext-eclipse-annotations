@@ -1,0 +1,7 @@
+class org/ehcache/config/builders/CacheManagerBuilder
+newCacheManagerBuilder
+ ()Lorg/ehcache/config/builders/CacheManagerBuilder<Lorg/ehcache/CacheManager;>;
+ ()L1org/ehcache/config/builders/CacheManagerBuilder<L1org/ehcache/CacheManager;>;
+withCache
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(Ljava/lang/String;Lorg/ehcache/config/Builder<+Lorg/ehcache/config/CacheConfiguration<TK;TV;>;>;)Lorg/ehcache/config/builders/CacheManagerBuilder<TT;>;
+ <K:Ljava/lang/Object;V:Ljava/lang/Object;>(Ljava/lang/String;Lorg/ehcache/config/Builder<+Lorg/ehcache/config/CacheConfiguration<TK;TV;>;>;)L1org/ehcache/config/builders/CacheManagerBuilder<TT;>;
