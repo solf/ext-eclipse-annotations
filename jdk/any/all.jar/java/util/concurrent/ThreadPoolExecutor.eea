@@ -1,4 +1,10 @@
 class java/util/concurrent/ThreadPoolExecutor
+drainQueue
+ ()Ljava/util/List<Ljava/lang/Runnable;>;
+ ()L1java/util/List<L1java/lang/Runnable;>;
 getQueue
  ()Ljava/util/concurrent/BlockingQueue<Ljava/lang/Runnable;>;
  ()L1java/util/concurrent/BlockingQueue<Ljava/lang/Runnable;>;
+shutdownNow
+ ()Ljava/util/List<Ljava/lang/Runnable;>;
+ ()L1java/util/List<L1java/lang/Runnable;>;

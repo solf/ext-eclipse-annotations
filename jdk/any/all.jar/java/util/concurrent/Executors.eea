@@ -1,0 +1,7 @@
+class java/util/concurrent/Executors
+newFixedThreadPool
+ (ILjava/util/concurrent/ThreadFactory;)Ljava/util/concurrent/ExecutorService;
+ (ILjava/util/concurrent/ThreadFactory;)L1java/util/concurrent/ExecutorService;
+newScheduledThreadPool
+ (ILjava/util/concurrent/ThreadFactory;)Ljava/util/concurrent/ScheduledExecutorService;
+ (ILjava/util/concurrent/ThreadFactory;)L1java/util/concurrent/ScheduledExecutorService;

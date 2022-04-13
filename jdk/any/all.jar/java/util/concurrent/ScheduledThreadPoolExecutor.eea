@@ -1,0 +1,4 @@
+class java/util/concurrent/ScheduledThreadPoolExecutor
+schedule
+ <V:Ljava/lang/Object;>(Ljava/util/concurrent/Callable<TV;>;JLjava/util/concurrent/TimeUnit;)Ljava/util/concurrent/ScheduledFuture<TV;>;
+ <V:Ljava/lang/Object;>(Ljava/util/concurrent/Callable<TV;>;JLjava/util/concurrent/TimeUnit;)L1java/util/concurrent/ScheduledFuture<TV;>;
