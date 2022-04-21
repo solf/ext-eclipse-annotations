@@ -1,0 +1,4 @@
+class com/microsoft/applicationinsights/extensibility/TelemetryProcessor
+process
+ (Lcom/microsoft/applicationinsights/telemetry/Telemetry;)Z
+ (Lcom/microsoft/applicationinsights/telemetry/Telemetry;)Z
