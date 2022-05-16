@@ -1,4 +1,10 @@
 class java/nio/file/Files
+read
+ (Ljava/io/InputStream;I)[B
+ (Ljava/io/InputStream;I)[1B
+readAllBytes
+ (Ljava/nio/file/Path;)[B
+ (Ljava/nio/file/Path;)[1B
 readAllLines
  (Ljava/nio/file/Path;)Ljava/util/List<Ljava/lang/String;>;
  (Ljava/nio/file/Path;)L1java/util/List<L1java/lang/String;>;

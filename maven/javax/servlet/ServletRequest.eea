@@ -5,6 +5,9 @@ getParameter
 getParameterMap
  ()Ljava/util/Map<Ljava/lang/String;[Ljava/lang/String;>;
  ()L1java/util/Map<L1java/lang/String;[1L1java/lang/String;>;
+getRemoteAddr
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
 getRemoteHost
  ()Ljava/lang/String;
  ()L1java/lang/String;

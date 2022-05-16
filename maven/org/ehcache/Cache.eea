@@ -1,0 +1,19 @@
+class org/ehcache/Cache
+get
+ (TK;)TV;
+ (T1K;)T0V;
+put
+ (TK;TV;)V
+ (T1K;T1V;)V
+remove
+ (TK;)V
+ (T1K;)V
+remove
+ (TK;TV;)Z
+ (T1K;TV;)Z
+replace
+ (TK;TV;)TV;
+ (T1K;T1V;)T0V;
+replace
+ (TK;TV;TV;)Z
+ (T1K;T1V;T1V;)Z

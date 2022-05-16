@@ -1,0 +1,4 @@
+class javax/crypto/spec/PBEKeySpec
+<init>
+ ([C[BII)V
+ ([C[1BII)V

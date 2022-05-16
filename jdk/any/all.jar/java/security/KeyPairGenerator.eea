@@ -1,0 +1,4 @@
+class java/security/KeyPairGenerator
+generateKeyPair
+ ()Ljava/security/KeyPair;
+ ()L1java/security/KeyPair;

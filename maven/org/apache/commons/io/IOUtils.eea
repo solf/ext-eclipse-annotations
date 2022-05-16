@@ -7,7 +7,7 @@ readLines
  (Ljava/io/Reader;)L1java/util/List<L1java/lang/String;>;
 toByteArray
  (Ljava/io/InputStream;)[B
- (Ljava/io/InputStream;)[1B
+ (L1java/io/InputStream;)[1B
 toString
  (Ljava/io/InputStream;)Ljava/lang/String;
  (Ljava/io/InputStream;)L1java/lang/String;

@@ -1,0 +1,7 @@
+class java/security/KeyFactory
+generatePrivate
+ (Ljava/security/spec/KeySpec;)Ljava/security/PrivateKey;
+ (Ljava/security/spec/KeySpec;)L1java/security/PrivateKey;
+generatePublic
+ (Ljava/security/spec/KeySpec;)Ljava/security/PublicKey;
+ (Ljava/security/spec/KeySpec;)L1java/security/PublicKey;

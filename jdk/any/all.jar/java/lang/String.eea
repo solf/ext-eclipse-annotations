@@ -3,6 +3,9 @@ format
  (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
  (Ljava/lang/String;[Ljava/lang/Object;)L1java/lang/String;
 getBytes
+ ()[B
+ ()[1B
+getBytes
  (Ljava/nio/charset/Charset;)[B
  (Ljava/nio/charset/Charset;)[1B
 join

@@ -1,0 +1,4 @@
+class javax/crypto/Cipher
+doFinal
+ ([B)[B
+ ([1B)[1B

@@ -1,0 +1,7 @@
+class java/security/KeyPair
+getPrivate
+ ()Ljava/security/PrivateKey;
+ ()L1java/security/PrivateKey;
+getPublic
+ ()Ljava/security/PublicKey;
+ ()L1java/security/PublicKey;

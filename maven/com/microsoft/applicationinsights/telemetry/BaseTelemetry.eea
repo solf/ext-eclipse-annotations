@@ -2,3 +2,6 @@ class com/microsoft/applicationinsights/telemetry/BaseTelemetry
 getContext
  ()Lcom/microsoft/applicationinsights/telemetry/TelemetryContext;
  ()L1com/microsoft/applicationinsights/telemetry/TelemetryContext;
+getProperties
+ ()Ljava/util/Map<Ljava/lang/String;Ljava/lang/String;>;
+ ()L1java/util/Map<Ljava/lang/String;Ljava/lang/String;>;
