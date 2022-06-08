@@ -6,6 +6,9 @@ getBytes
  ()[B
  ()[1B
 getBytes
+ (Ljava/lang/String;)[B
+ (Ljava/lang/String;)[1B
+getBytes
  (Ljava/nio/charset/Charset;)[B
  (Ljava/nio/charset/Charset;)[1B
 join
