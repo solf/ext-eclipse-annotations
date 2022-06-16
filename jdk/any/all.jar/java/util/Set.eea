@@ -5,3 +5,9 @@ addAll
 iterator
  ()Ljava/util/Iterator<TE;>;
  ()L1java/util/Iterator<TE;>;
+of
+ <E:Ljava/lang/Object;>(TE;)Ljava/util/Set<TE;>;
+ <1E:Ljava/lang/Object;>(TE;)L1java/util/Set<TE;>;
+of
+ <E:Ljava/lang/Object;>(TE;TE;)Ljava/util/Set<TE;>;
+ <1E:Ljava/lang/Object;>(TE;TE;)L1java/util/Set<TE;>;

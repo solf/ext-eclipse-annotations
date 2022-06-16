@@ -41,6 +41,9 @@ substring
 toLowerCase
  ()Ljava/lang/String;
  ()L1java/lang/String;
+toString
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
 toUpperCase
  ()Ljava/lang/String;
  ()L1java/lang/String;
