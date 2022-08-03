@@ -1,0 +1,10 @@
+class com/zaxxer/hikari/HikariDataSource
+getHikariConfigMXBean
+ ()Lcom/zaxxer/hikari/HikariConfigMXBean;
+ ()L1com/zaxxer/hikari/HikariConfigMXBean;
+getHikariPoolMXBean
+ ()Lcom/zaxxer/hikari/HikariPoolMXBean;
+ ()L0com/zaxxer/hikari/HikariPoolMXBean;
+pool
+ Lcom/zaxxer/hikari/pool/HikariPool;
+ Lcom/zaxxer/hikari/pool/HikariPool;
