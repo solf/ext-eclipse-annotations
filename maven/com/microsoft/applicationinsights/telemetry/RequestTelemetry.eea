@@ -1,4 +1,7 @@
 class com/microsoft/applicationinsights/telemetry/RequestTelemetry
+getUrl
+ ()Ljava/net/URL;
+ ()L0java/net/URL;
 getUrlString
  ()Ljava/lang/String;
  ()L1java/lang/String;
