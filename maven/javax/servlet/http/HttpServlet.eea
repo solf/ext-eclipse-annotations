@@ -1,4 +1,7 @@
 class javax/servlet/http/HttpServlet
+doGet
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V
 doPost
  (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
  (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V

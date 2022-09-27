@@ -1,0 +1,4 @@
+class javax/servlet/GenericServlet
+init
+ (Ljavax/servlet/ServletConfig;)V
+ (L1javax/servlet/ServletConfig;)V

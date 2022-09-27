@@ -1,10 +1,19 @@
 class javax/servlet/http/HttpServletRequest
+getAuthType
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
 getCookies
  ()[Ljavax/servlet/http/Cookie;
  ()[0L1javax/servlet/http/Cookie;
 getHeader
  (Ljava/lang/String;)Ljava/lang/String;
- (Ljava/lang/String;)L0java/lang/String;
+ (L1java/lang/String;)L0java/lang/String;
+getHeaderNames
+ ()Ljava/util/Enumeration<Ljava/lang/String;>;
+ ()L1java/util/Enumeration<L1java/lang/String;>;
+getHeaders
+ (Ljava/lang/String;)Ljava/util/Enumeration<Ljava/lang/String;>;
+ (L1java/lang/String;)Ljava/util/Enumeration<L1java/lang/String;>;
 getParts
  ()Ljava/util/Collection<Ljavax/servlet/http/Part;>;
  ()L1java/util/Collection<L1javax/servlet/http/Part;>;
