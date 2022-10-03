@@ -11,6 +11,9 @@ clone
 iterator
  ()Ljava/util/Iterator<TE;>;
  ()L1java/util/Iterator<TE;>;
+subList
+ (II)Ljava/util/List<TE;>;
+ (II)L1java/util/List<TE;>;
 toArray
  ()[Ljava/lang/Object;
  ()[1Ljava/lang/Object;

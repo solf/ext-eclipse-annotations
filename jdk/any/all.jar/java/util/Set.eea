@@ -11,3 +11,9 @@ of
 of
  <E:Ljava/lang/Object;>(TE;TE;)Ljava/util/Set<TE;>;
  <1E:Ljava/lang/Object;>(TE;TE;)L1java/util/Set<TE;>;
+toArray
+ ()[Ljava/lang/Object;
+ ()[1Ljava/lang/Object;
+toArray
+ <T:Ljava/lang/Object;>([TT;)[TT;
+ <T:Ljava/lang/Object;>([1TT;)[1TT;
