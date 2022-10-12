@@ -1,0 +1,10 @@
+class com/j256/ormlite/dao/BaseDaoImpl
+query
+ (Lcom/j256/ormlite/stmt/PreparedQuery<TT;>;)Ljava/util/List<TT;>;
+ (Lcom/j256/ormlite/stmt/PreparedQuery<TT;>;)L1java/util/List<T1T;>;
+queryForMatching
+ (TT;Z)Ljava/util/List<TT;>;
+ (TT;Z)L1java/util/List<T1T;>;
+queryForMatchingArgs
+ (TT;)Ljava/util/List<TT;>;
+ (TT;)L1java/util/List<T1T;>;

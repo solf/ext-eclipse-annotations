@@ -1,0 +1,4 @@
+class com/j256/ormlite/stmt/QueryBuilder
+query
+ ()Ljava/util/List<TT;>;
+ ()L1java/util/List<T1T;>;

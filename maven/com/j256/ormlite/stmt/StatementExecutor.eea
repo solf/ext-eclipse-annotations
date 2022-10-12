@@ -1,0 +1,7 @@
+class com/j256/ormlite/stmt/StatementExecutor
+buildIterator
+ (Lcom/j256/ormlite/dao/BaseDaoImpl<TT;TID;>;Lcom/j256/ormlite/support/ConnectionSource;Lcom/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;I)Lcom/j256/ormlite/stmt/SelectIterator<TT;TID;>;
+ (Lcom/j256/ormlite/dao/BaseDaoImpl<TT;TID;>;Lcom/j256/ormlite/support/ConnectionSource;L1com/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;I)L1com/j256/ormlite/stmt/SelectIterator<TT;TID;>;
+query
+ (Lcom/j256/ormlite/support/ConnectionSource;Lcom/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;)Ljava/util/List<TT;>;
+ (Lcom/j256/ormlite/support/ConnectionSource;L1com/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;)L1java/util/List<T1T;>;

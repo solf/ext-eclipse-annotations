@@ -1,0 +1,4 @@
+class com/j256/ormlite/field/FieldType
+getFieldValueIfNotDefault
+ <FV:Ljava/lang/Object;>(Ljava/lang/Object;)TFV;
+ <FV:Ljava/lang/Object;>(Ljava/lang/Object;)T0FV;
