@@ -2,3 +2,6 @@ class org/apache/commons/lang3/exception/ExceptionUtils
 getRootCause
  (Ljava/lang/Throwable;)Ljava/lang/Throwable;
  (Ljava/lang/Throwable;)L0java/lang/Throwable;
+getRootCauseMessage
+ (Ljava/lang/Throwable;)Ljava/lang/String;
+ (Ljava/lang/Throwable;)L1java/lang/String;
