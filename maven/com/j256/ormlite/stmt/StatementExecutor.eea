@@ -5,3 +5,6 @@ buildIterator
 query
  (Lcom/j256/ormlite/support/ConnectionSource;Lcom/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;)Ljava/util/List<TT;>;
  (Lcom/j256/ormlite/support/ConnectionSource;L1com/j256/ormlite/stmt/PreparedStmt<TT;>;Lcom/j256/ormlite/dao/ObjectCache;)L1java/util/List<T1T;>;
+queryForAll
+ (Lcom/j256/ormlite/support/ConnectionSource;Lcom/j256/ormlite/dao/ObjectCache;)Ljava/util/List<TT;>;
+ (Lcom/j256/ormlite/support/ConnectionSource;Lcom/j256/ormlite/dao/ObjectCache;)L1java/util/List<T1T;>;

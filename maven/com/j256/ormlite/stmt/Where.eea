@@ -1,0 +1,4 @@
+class com/j256/ormlite/stmt/Where
+prepare
+ ()Lcom/j256/ormlite/stmt/PreparedQuery<TT;>;
+ ()L1com/j256/ormlite/stmt/PreparedQuery<TT;>;

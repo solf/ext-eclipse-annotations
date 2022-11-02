@@ -1,0 +1,4 @@
+class com/j256/ormlite/dao/DaoManager
+createDao
+ <D::Lcom/j256/ormlite/dao/Dao<TT;*>;T:Ljava/lang/Object;>(Lcom/j256/ormlite/support/ConnectionSource;Ljava/lang/Class<TT;>;)TD;
+ <D::Lcom/j256/ormlite/dao/Dao<TT;*>;T:Ljava/lang/Object;>(Lcom/j256/ormlite/support/ConnectionSource;Ljava/lang/Class<TT;>;)T1D;

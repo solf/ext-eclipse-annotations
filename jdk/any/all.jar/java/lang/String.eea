@@ -1,4 +1,10 @@
 class java/lang/String
+<init>
+ ([BIILjava/lang/String;)V
+ ([BIIL1java/lang/String;)V
+<init>
+ ([BLjava/lang/String;)V
+ ([BL1java/lang/String;)V
 format
  (Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
  (Ljava/lang/String;[Ljava/lang/Object;)L1java/lang/String;

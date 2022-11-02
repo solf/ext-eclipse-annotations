@@ -2,3 +2,9 @@ class com/j256/ormlite/dao/Dao
 query
  (Lcom/j256/ormlite/stmt/PreparedQuery<TT;>;)Ljava/util/List<TT;>;
  (Lcom/j256/ormlite/stmt/PreparedQuery<TT;>;)L1java/util/List<T1T;>;
+queryBuilder
+ ()Lcom/j256/ormlite/stmt/QueryBuilder<TT;TID;>;
+ ()L1com/j256/ormlite/stmt/QueryBuilder<TT;TID;>;
+queryForAll
+ ()Ljava/util/List<TT;>;
+ ()L1java/util/List<T1T;>;

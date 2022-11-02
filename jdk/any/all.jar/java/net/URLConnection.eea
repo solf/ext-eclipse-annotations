@@ -1,4 +1,7 @@
 class java/net/URLConnection
+getContentEncoding
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
 getInputStream
  ()Ljava/io/InputStream;
  ()L1java/io/InputStream;

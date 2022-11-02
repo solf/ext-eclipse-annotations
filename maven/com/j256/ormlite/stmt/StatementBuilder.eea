@@ -1,0 +1,4 @@
+class com/j256/ormlite/stmt/StatementBuilder
+prepareStatement
+ (Ljava/lang/Long;Z)Lcom/j256/ormlite/stmt/mapped/MappedPreparedStmt<TT;TID;>;
+ (Ljava/lang/Long;Z)L1com/j256/ormlite/stmt/mapped/MappedPreparedStmt<TT;TID;>;
