@@ -1,0 +1,4 @@
+class com/github/javaparser/ast/type/Type
+clone
+ ()Lcom/github/javaparser/ast/type/Type;
+ ()L1com/github/javaparser/ast/type/Type;
