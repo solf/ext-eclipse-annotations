@@ -1,0 +1,7 @@
+class org/apache/http/entity/ContentType
+getCharset
+ ()Ljava/nio/charset/Charset;
+ ()L0java/nio/charset/Charset;
+parse
+ (Ljava/lang/String;)Lorg/apache/http/entity/ContentType;
+ (L1java/lang/String;)Lorg/apache/http/entity/ContentType;
