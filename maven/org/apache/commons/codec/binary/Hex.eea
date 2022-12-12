@@ -1,0 +1,13 @@
+class org/apache/commons/codec/binary/Hex
+encodeHex
+ ([B)[C
+ ([1B)[1C
+encodeHex
+ ([BZ)[C
+ ([1BZ)[1C
+encodeHex
+ ([B[C)[C
+ ([1B[C)[1C
+encodeHexString
+ ([B)Ljava/lang/String;
+ ([1B)L1java/lang/String;

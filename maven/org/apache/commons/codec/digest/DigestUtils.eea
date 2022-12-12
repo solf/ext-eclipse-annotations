@@ -1,0 +1,10 @@
+class org/apache/commons/codec/digest/DigestUtils
+sha1
+ (Ljava/lang/String;)[B
+ (L1java/lang/String;)[1B
+sha1
+ ([B)[B
+ ([1B)[1B
+sha1Hex
+ (Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;)L1java/lang/String;

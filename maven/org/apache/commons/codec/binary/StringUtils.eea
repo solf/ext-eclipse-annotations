@@ -1,0 +1,7 @@
+class org/apache/commons/codec/binary/StringUtils
+getBytes
+ (Ljava/lang/String;Ljava/nio/charset/Charset;)[B
+ (L0java/lang/String;Ljava/nio/charset/Charset;)[0B
+getBytesUtf8
+ (Ljava/lang/String;)[B
+ (L0java/lang/String;)[0B

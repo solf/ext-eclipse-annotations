@@ -1,0 +1,10 @@
+class java/security/MessageDigest
+digest
+ ()[B
+ ()[1B
+digest
+ ([B)[B
+ ([1B)[1B
+update
+ ([B)V
+ ([1B)V
