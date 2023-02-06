@@ -5,3 +5,6 @@ createStatement
 prepareStatement
  (Ljava/lang/String;)Ljava/sql/PreparedStatement;
  (L1java/lang/String;)L1java/sql/PreparedStatement;
+prepareStatement
+ (Ljava/lang/String;I)Ljava/sql/PreparedStatement;
+ (Ljava/lang/String;I)L1java/sql/PreparedStatement;

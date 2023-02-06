@@ -5,3 +5,6 @@ executeBatch
 executeQuery
  (Ljava/lang/String;)Ljava/sql/ResultSet;
  (Ljava/lang/String;)L1java/sql/ResultSet;
+getGeneratedKeys
+ ()Ljava/sql/ResultSet;
+ ()L1java/sql/ResultSet;

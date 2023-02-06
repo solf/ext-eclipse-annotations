@@ -1,0 +1,4 @@
+class java/security/AlgorithmParameters
+getParameterSpec
+ <T::Ljava/security/spec/AlgorithmParameterSpec;>(Ljava/lang/Class<TT;>;)TT;
+ <T::Ljava/security/spec/AlgorithmParameterSpec;>(Ljava/lang/Class<TT;>;)T1T;

@@ -1,10 +1,16 @@
 class javax/servlet/ServletRequest
+getInputStream
+ ()Ljavax/servlet/ServletInputStream;
+ ()L1javax/servlet/ServletInputStream;
 getParameter
  (Ljava/lang/String;)Ljava/lang/String;
  (Ljava/lang/String;)L0java/lang/String;
 getParameterMap
  ()Ljava/util/Map<Ljava/lang/String;[Ljava/lang/String;>;
  ()L1java/util/Map<L1java/lang/String;[1L1java/lang/String;>;
+getReader
+ ()Ljava/io/BufferedReader;
+ ()L1java/io/BufferedReader;
 getRemoteAddr
  ()Ljava/lang/String;
  ()L1java/lang/String;
