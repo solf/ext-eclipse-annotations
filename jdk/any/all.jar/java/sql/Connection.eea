@@ -8,3 +8,9 @@ prepareStatement
 prepareStatement
  (Ljava/lang/String;I)Ljava/sql/PreparedStatement;
  (Ljava/lang/String;I)L1java/sql/PreparedStatement;
+prepareStatement
+ (Ljava/lang/String;II)Ljava/sql/PreparedStatement;
+ (Ljava/lang/String;II)L1java/sql/PreparedStatement;
+prepareStatement
+ (Ljava/lang/String;III)Ljava/sql/PreparedStatement;
+ (Ljava/lang/String;III)L1java/sql/PreparedStatement;
