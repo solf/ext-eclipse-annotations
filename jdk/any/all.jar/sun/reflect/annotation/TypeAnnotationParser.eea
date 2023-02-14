@@ -1,0 +1,4 @@
+class sun/reflect/annotation/TypeAnnotationParser
+buildAnnotatedType
+ ([BLjdk/internal/reflect/ConstantPool;Ljava/lang/reflect/AnnotatedElement;Ljava/lang/Class<*>;Ljava/lang/reflect/Type;Lsun/reflect/annotation/TypeAnnotation$TypeAnnotationTarget;)Ljava/lang/reflect/AnnotatedType;
+ ([BLjdk/internal/reflect/ConstantPool;Ljava/lang/reflect/AnnotatedElement;Ljava/lang/Class<*>;Ljava/lang/reflect/Type;Lsun/reflect/annotation/TypeAnnotation$TypeAnnotationTarget;)L1java/lang/reflect/AnnotatedType;

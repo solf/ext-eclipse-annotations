@@ -1,0 +1,4 @@
+class jakarta/validation/ValidatorFactory
+getValidator
+ ()Ljakarta/validation/Validator;
+ ()L1jakarta/validation/Validator;

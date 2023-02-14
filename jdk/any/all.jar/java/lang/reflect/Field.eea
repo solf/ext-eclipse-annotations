@@ -1,4 +1,7 @@
 class java/lang/reflect/Field
+getAnnotatedType
+ ()Ljava/lang/reflect/AnnotatedType;
+ ()L1java/lang/reflect/AnnotatedType;
 getAnnotation
  <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)TT;
  <T::Ljava/lang/annotation/Annotation;>(L1java/lang/Class<TT;>;)T0T;

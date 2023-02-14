@@ -1,0 +1,7 @@
+class com/google/gson/TypeAdapter
+read
+ (Lcom/google/gson/stream/JsonReader;)TT;
+ (L1com/google/gson/stream/JsonReader;)T0T;
+write
+ (Lcom/google/gson/stream/JsonWriter;TT;)V
+ (L1com/google/gson/stream/JsonWriter;T0T;)V
