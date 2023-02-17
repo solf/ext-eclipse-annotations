@@ -17,3 +17,6 @@ getHeaders
 getParts
  ()Ljava/util/Collection<Ljavax/servlet/http/Part;>;
  ()L1java/util/Collection<L1javax/servlet/http/Part;>;
+getServletPath
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
