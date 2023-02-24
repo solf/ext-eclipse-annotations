@@ -2,6 +2,9 @@ class org/apache/commons/lang3/StringUtils
 defaultString
  (Ljava/lang/String;)Ljava/lang/String;
  (L0java/lang/String;)L1java/lang/String;
+join
+ ([Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/String;
+ ([0Ljava/lang/Object;Ljava/lang/String;)L0java/lang/String;
 left
  (Ljava/lang/String;I)Ljava/lang/String;
  (L0java/lang/String;I)L0java/lang/String;

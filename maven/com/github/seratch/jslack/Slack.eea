@@ -1,0 +1,4 @@
+class com/github/seratch/jslack/Slack
+getInstance
+ ()Lcom/github/seratch/jslack/Slack;
+ ()L1com/github/seratch/jslack/Slack;
