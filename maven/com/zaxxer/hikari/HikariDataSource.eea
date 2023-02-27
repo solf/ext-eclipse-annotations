@@ -1,4 +1,7 @@
 class com/zaxxer/hikari/HikariDataSource
+getConnection
+ ()Ljava/sql/Connection;
+ ()L1java/sql/Connection;
 getHikariConfigMXBean
  ()Lcom/zaxxer/hikari/HikariConfigMXBean;
  ()L1com/zaxxer/hikari/HikariConfigMXBean;
