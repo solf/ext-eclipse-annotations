@@ -8,3 +8,6 @@ queryBuilder
 queryForAll
  ()Ljava/util/List<TT;>;
  ()L1java/util/List<T1T;>;
+queryForId
+ (TID;)TT;
+ (T1ID;)T0T;
