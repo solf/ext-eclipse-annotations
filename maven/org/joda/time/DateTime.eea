@@ -53,6 +53,9 @@ toLocalDate
 toLocalDateTime
  ()Lorg/joda/time/LocalDateTime;
  ()L1org/joda/time/LocalDateTime;
+toLocalTime
+ ()Lorg/joda/time/LocalTime;
+ ()L1org/joda/time/LocalTime;
 withChronology
  (Lorg/joda/time/Chronology;)Lorg/joda/time/DateTime;
  (Lorg/joda/time/Chronology;)L1org/joda/time/DateTime;
