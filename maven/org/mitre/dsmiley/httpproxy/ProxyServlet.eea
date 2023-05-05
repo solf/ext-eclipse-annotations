@@ -1,0 +1,10 @@
+class org/mitre/dsmiley/httpproxy/ProxyServlet
+copyRequestHeaders
+ (Ljavax/servlet/http/HttpServletRequest;Lorg/apache/http/HttpRequest;)V
+ (L1javax/servlet/http/HttpServletRequest;L1org/apache/http/HttpRequest;)V
+doExecute
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;Lorg/apache/http/HttpRequest;)Lorg/apache/http/HttpResponse;
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;L1org/apache/http/HttpRequest;)L1org/apache/http/HttpResponse;
+service
+ (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V
+ (L1javax/servlet/http/HttpServletRequest;L1javax/servlet/http/HttpServletResponse;)V

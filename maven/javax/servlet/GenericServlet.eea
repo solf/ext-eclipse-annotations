@@ -2,3 +2,9 @@ class javax/servlet/GenericServlet
 init
  (Ljavax/servlet/ServletConfig;)V
  (L1javax/servlet/ServletConfig;)V
+log
+ (Ljava/lang/String;)V
+ (L0java/lang/String;)V
+log
+ (Ljava/lang/String;Ljava/lang/Throwable;)V
+ (L0java/lang/String;Ljava/lang/Throwable;)V
