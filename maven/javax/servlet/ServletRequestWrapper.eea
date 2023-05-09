@@ -1,0 +1,4 @@
+class javax/servlet/ServletRequestWrapper
+getCharacterEncoding
+ ()Ljava/lang/String;
+ ()L0java/lang/String;

@@ -1,4 +1,7 @@
 class javax/servlet/ServletRequest
+getCharacterEncoding
+ ()Ljava/lang/String;
+ ()L0java/lang/String;
 getInputStream
  ()Ljavax/servlet/ServletInputStream;
  ()L1javax/servlet/ServletInputStream;
