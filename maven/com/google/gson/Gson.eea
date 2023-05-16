@@ -2,3 +2,12 @@ class com/google/gson/Gson
 fromJson
  <T:Ljava/lang/Object;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)TT;
  <T:Ljava/lang/Object;>(L0java/lang/String;L1java/lang/Class<TT;>;)T0T;
+toJson
+ (Lcom/google/gson/JsonElement;)Ljava/lang/String;
+ (Lcom/google/gson/JsonElement;)L1java/lang/String;
+toJson
+ (Ljava/lang/Object;)Ljava/lang/String;
+ (L0java/lang/Object;)L1java/lang/String;
+toJson
+ (Ljava/lang/Object;Ljava/lang/reflect/Type;)Ljava/lang/String;
+ (Ljava/lang/Object;Ljava/lang/reflect/Type;)L1java/lang/String;
