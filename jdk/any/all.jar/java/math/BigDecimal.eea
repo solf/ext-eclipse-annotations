@@ -14,6 +14,9 @@ add
 divide
  (Ljava/math/BigDecimal;ILjava/math/RoundingMode;)Ljava/math/BigDecimal;
  (Ljava/math/BigDecimal;ILjava/math/RoundingMode;)L1java/math/BigDecimal;
+movePointLeft
+ (I)Ljava/math/BigDecimal;
+ (I)L1java/math/BigDecimal;
 multiply
  (Ljava/math/BigDecimal;)Ljava/math/BigDecimal;
  (Ljava/math/BigDecimal;)L1java/math/BigDecimal;
