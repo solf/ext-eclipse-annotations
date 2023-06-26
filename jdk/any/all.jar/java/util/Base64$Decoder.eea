@@ -1,7 +1,7 @@
 class java/util/Base64$Decoder
 decode
  (Ljava/lang/String;)[B
- (Ljava/lang/String;)[1B
+ (L1java/lang/String;)[1B
 decode
  ([B)[B
  ([B)[1B
