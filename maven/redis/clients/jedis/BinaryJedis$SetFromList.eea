@@ -1,0 +1,4 @@
+class redis/clients/jedis/BinaryJedis$SetFromList
+of
+ <E:Ljava/lang/Object;>(Ljava/util/List<TE;>;)Lredis/clients/jedis/BinaryJedis$SetFromList<TE;>;
+ <E:Ljava/lang/Object;>(Ljava/util/List<TE;>;)L1redis/clients/jedis/BinaryJedis$SetFromList<TE;>;

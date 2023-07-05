@@ -2,3 +2,6 @@ class redis/clients/jedis/BinaryJedis
 del
  ([B)Ljava/lang/Long;
  ([B)L0java/lang/Long;
+keys
+ ([B)Ljava/util/Set<[B>;
+ ([B)L1java/util/Set<[1B>;
