@@ -1,0 +1,4 @@
+class com/google/gson/reflect/TypeToken
+getRawType
+ ()Ljava/lang/Class<-TT;>;
+ ()L1java/lang/Class<-TT;>;
