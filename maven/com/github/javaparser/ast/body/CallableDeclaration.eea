@@ -1,4 +1,7 @@
 class com/github/javaparser/ast/body/CallableDeclaration
 getParameters
  ()Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/body/Parameter;>;
- ()Lcom/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/body/Parameter;>;
+ ()L1com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/body/Parameter;>;
+setParameters
+ (Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/body/Parameter;>;)TT;
+ (L1com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/body/Parameter;>;)TT;

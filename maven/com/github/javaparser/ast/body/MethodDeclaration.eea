@@ -1,4 +1,7 @@
 class com/github/javaparser/ast/body/MethodDeclaration
+<init>
+ (Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/Modifier;>;Ljava/lang/String;Lcom/github/javaparser/ast/type/Type;Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/body/Parameter;>;)V
+ (Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/Modifier;>;Ljava/lang/String;Lcom/github/javaparser/ast/type/Type;L1com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/body/Parameter;>;)V
 removeBody
  ()Lcom/github/javaparser/ast/body/MethodDeclaration;
  ()L1com/github/javaparser/ast/body/MethodDeclaration;

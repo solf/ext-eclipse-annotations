@@ -1,0 +1,7 @@
+class com/github/javaparser/ast/nodeTypes/NodeWithTypeArguments
+getTypeArguments
+ ()Ljava/util/Optional<Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/type/Type;>;>;
+ ()Ljava/util/Optional<Lcom/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/type/Type;>;>;
+setTypeArguments
+ (Lcom/github/javaparser/ast/NodeList<Lcom/github/javaparser/ast/type/Type;>;)TN;
+ (L0com/github/javaparser/ast/NodeList<L1com/github/javaparser/ast/type/Type;>;)TN;

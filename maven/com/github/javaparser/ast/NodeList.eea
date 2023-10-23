@@ -5,3 +5,6 @@ get
 iterator
  ()Ljava/util/Iterator<TN;>;
  ()L1java/util/Iterator<T1N;>;
+nodeList
+ <X:Lcom/github/javaparser/ast/Node;>([TX;)Lcom/github/javaparser/ast/NodeList<TX;>;
+ <X:Lcom/github/javaparser/ast/Node;>([TX;)L1com/github/javaparser/ast/NodeList<TX;>;
