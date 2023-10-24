@@ -1,0 +1,4 @@
+class javax/mail/Part
+getInputStream
+ ()Ljava/io/InputStream;
+ ()L1java/io/InputStream;
