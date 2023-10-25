@@ -1,4 +1,10 @@
 class com/gargoylesoftware/htmlunit/WebRequest
+getRequestParameters
+ ()Ljava/util/List<Lcom/gargoylesoftware/htmlunit/util/NameValuePair;>;
+ ()L1java/util/List<L1com/gargoylesoftware/htmlunit/util/NameValuePair;>;
 getUrl
  ()Ljava/net/URL;
  ()L1java/net/URL;
+setRequestParameters
+ (Ljava/util/List<Lcom/gargoylesoftware/htmlunit/util/NameValuePair;>;)V
+ (L1java/util/List<L1com/gargoylesoftware/htmlunit/util/NameValuePair;>;)V
