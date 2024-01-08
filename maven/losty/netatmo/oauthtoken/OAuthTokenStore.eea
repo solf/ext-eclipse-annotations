@@ -1,0 +1,10 @@
+class losty/netatmo/oauthtoken/OAuthTokenStore
+getAccessToken
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+getRefreshToken
+ ()Ljava/lang/String;
+ ()L1java/lang/String;
+setTokens
+ (Ljava/lang/String;Ljava/lang/String;J)V
+ (L1java/lang/String;L1java/lang/String;J)V

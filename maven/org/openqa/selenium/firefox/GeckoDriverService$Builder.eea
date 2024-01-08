@@ -2,3 +2,6 @@ class org/openqa/selenium/firefox/GeckoDriverService$Builder
 createArgs
  ()Lcom/google/common/collect/ImmutableList<Ljava/lang/String;>;
  ()L1com/google/common/collect/ImmutableList<L1java/lang/String;>;
+createArgs
+ ()Ljava/util/List<Ljava/lang/String;>;
+ ()L1java/util/List<L1java/lang/String;>;
