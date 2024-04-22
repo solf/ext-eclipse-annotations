@@ -1,0 +1,13 @@
+class de/siegmar/fastcsv/reader/CsvReader$CsvReaderBuilder
+build
+ <T:Ljava/lang/Object;>(Lde/siegmar/fastcsv/reader/CsvCallbackHandler<TT;>;Ljava/lang/String;)Lde/siegmar/fastcsv/reader/CsvReader<TT;>;
+ <T:Ljava/lang/Object;>(Lde/siegmar/fastcsv/reader/CsvCallbackHandler<TT;>;Ljava/lang/String;)L1de/siegmar/fastcsv/reader/CsvReader<TT;>;
+ofCsvRecord
+ (Ljava/io/Reader;)Lde/siegmar/fastcsv/reader/CsvReader<Lde/siegmar/fastcsv/reader/CsvRecord;>;
+ (Ljava/io/Reader;)L1de/siegmar/fastcsv/reader/CsvReader<L1de/siegmar/fastcsv/reader/CsvRecord;>;
+ofCsvRecord
+ (Ljava/lang/String;)Lde/siegmar/fastcsv/reader/CsvReader<Lde/siegmar/fastcsv/reader/CsvRecord;>;
+ (L1java/lang/String;)L1de/siegmar/fastcsv/reader/CsvReader<L1de/siegmar/fastcsv/reader/CsvRecord;>;
+ofNamedCsvRecord
+ (Ljava/io/Reader;)Lde/siegmar/fastcsv/reader/CsvReader<Lde/siegmar/fastcsv/reader/NamedCsvRecord;>;
+ (L1java/io/Reader;)L1de/siegmar/fastcsv/reader/CsvReader<L1de/siegmar/fastcsv/reader/NamedCsvRecord;>;

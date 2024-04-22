@@ -1,0 +1,4 @@
+class de/siegmar/fastcsv/reader/CsvReader
+iterator
+ ()Lde/siegmar/fastcsv/reader/CloseableIterator<TT;>;
+ ()L1de/siegmar/fastcsv/reader/CloseableIterator<T1T;>;

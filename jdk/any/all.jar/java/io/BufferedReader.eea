@@ -1,4 +1,7 @@
 class java/io/BufferedReader
+lines
+ ()Ljava/util/stream/Stream<Ljava/lang/String;>;
+ ()Ljava/util/stream/Stream<L1java/lang/String;>;
 readLine
  ()Ljava/lang/String;
  ()L0java/lang/String;

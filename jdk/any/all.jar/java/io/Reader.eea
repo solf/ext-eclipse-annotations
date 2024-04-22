@@ -1,0 +1,4 @@
+class java/io/Reader
+read
+ ([CII)I
+ ([1CII)I
