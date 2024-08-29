@@ -1,0 +1,4 @@
+class org/springframework/beans/factory/ListableBeanFactory
+getBeanDefinitionNames
+ ()[Ljava/lang/String;
+ ()[1L1java/lang/String;

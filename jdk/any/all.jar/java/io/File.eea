@@ -29,3 +29,6 @@ list
 listFiles
  ()[Ljava/io/File;
  ()[0L1java/io/File;
+toPath
+ ()Ljava/nio/file/Path;
+ ()L1java/nio/file/Path;

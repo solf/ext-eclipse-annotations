@@ -2,6 +2,9 @@ class org/openqa/selenium/WebElement
 findElements
  (Lorg/openqa/selenium/By;)Ljava/util/List<Lorg/openqa/selenium/WebElement;>;
  (Lorg/openqa/selenium/By;)L1java/util/List<L1org/openqa/selenium/WebElement;>;
+getAttribute
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L0java/lang/String;
 getText
  ()Ljava/lang/String;
  ()L1java/lang/String;

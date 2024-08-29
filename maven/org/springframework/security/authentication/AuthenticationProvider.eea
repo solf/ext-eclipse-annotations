@@ -1,0 +1,7 @@
+class org/springframework/security/authentication/AuthenticationProvider
+authenticate
+ (Lorg/springframework/security/core/Authentication;)Lorg/springframework/security/core/Authentication;
+ (L1org/springframework/security/core/Authentication;)L0org/springframework/security/core/Authentication;
+supports
+ (Ljava/lang/Class<*>;)Z
+ (L1java/lang/Class<*>;)Z
