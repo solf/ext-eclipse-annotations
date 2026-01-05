@@ -2,3 +2,6 @@ class org/openqa/selenium/WebDriver
 findElements
  (Lorg/openqa/selenium/By;)Ljava/util/List<Lorg/openqa/selenium/WebElement;>;
  (Lorg/openqa/selenium/By;)L1java/util/List<L1org/openqa/selenium/WebElement;>;
+getWindowHandles
+ ()Ljava/util/Set<Ljava/lang/String;>;
+ ()L1java/util/Set<L1java/lang/String;>;
