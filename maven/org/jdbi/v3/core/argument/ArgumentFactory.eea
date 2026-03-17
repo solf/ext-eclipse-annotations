@@ -1,0 +1,4 @@
+class org/jdbi/v3/core/argument/ArgumentFactory
+build
+ (Ljava/lang/reflect/Type;Ljava/lang/Object;Lorg/jdbi/v3/core/config/ConfigRegistry;)Ljava/util/Optional<Lorg/jdbi/v3/core/argument/Argument;>;
+ (L1java/lang/reflect/Type;L0java/lang/Object;L1org/jdbi/v3/core/config/ConfigRegistry;)L1java/util/Optional<L1org/jdbi/v3/core/argument/Argument;>;

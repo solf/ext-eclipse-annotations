@@ -1,7 +1,10 @@
 class java/lang/System
 getProperty
+ (Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;)L0java/lang/String;
+getProperty
  (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
- (L1java/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (L1java/lang/String;Ljava/lang/String;)L0java/lang/String;
 getenv
  (Ljava/lang/String;)Ljava/lang/String;
  (L1java/lang/String;)L0java/lang/String;

@@ -23,6 +23,9 @@ getDeclaredFields
 getDeclaredMethod
  (Ljava/lang/String;[Ljava/lang/Class<*>;)Ljava/lang/reflect/Method;
  (Ljava/lang/String;[Ljava/lang/Class<*>;)L1java/lang/reflect/Method;
+getEnumConstants
+ ()[TT;
+ ()[0T1T;
 getName
  ()Ljava/lang/String;
  ()L1java/lang/String;

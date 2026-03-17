@@ -1,0 +1,4 @@
+class org/jdbi/v3/core/spi/JdbiPlugin
+customizeJdbi
+ (Lorg/jdbi/v3/core/Jdbi;)V
+ (L1org/jdbi/v3/core/Jdbi;)V

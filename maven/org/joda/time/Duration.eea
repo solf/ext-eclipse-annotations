@@ -1,0 +1,13 @@
+class org/joda/time/Duration
+millis
+ (J)Lorg/joda/time/Duration;
+ (J)L1org/joda/time/Duration;
+standardDays
+ (J)Lorg/joda/time/Duration;
+ (J)L1org/joda/time/Duration;
+standardHours
+ (J)Lorg/joda/time/Duration;
+ (J)L1org/joda/time/Duration;
+standardMinutes
+ (J)Lorg/joda/time/Duration;
+ (J)L1org/joda/time/Duration;
